@@ -1,0 +1,69 @@
+about:
+  description: ⌥ Coding agent with the IDE wired in
+  license: MIT
+  homepage: https://omp.sh
+  head: 2b8471b
+  archived: false
+  latestVersion: v18.1.5
+  collectedAt: 2026-09-03T04:15:50Z
+timeline:
+  created: 2025-12-31
+  lastCommit: 2026-09-03
+  lastRelease: 2026-09-03
+popularity:
+  star: 29129
+  watcher: 89
+  fork: 2929
+  release: 588
+  contributor: 517
+  pullRequest: 2463
+  issue: 4719
+language:
+  TypeScript: 53396981
+  Rust: 6100265
+  Python: 3162747
+  Nix: 164605
+  CSS: 150502
+  JavaScript: 137336
+  Shell: 68903
+  Starlark: 67230
+  Julia: 59381
+  Ruby: 36138
+  HTML: 23969
+  Dockerfile: 19940
+  PowerShell: 9950
+  AppleScript: 1570
+totalLine: 63399517
+recent:
+  last30d:
+    since: 2026-08-04
+    release: 36
+    mergedPR: 808
+    openPR: 564
+    closedIssue: 632
+    openIssue: 659
+    commit: 3596
+  last90d:
+    since: 2026-06-05
+    release: 100
+    mergedPR: 2563
+    openPR: 817
+    closedIssue: 2569
+    openIssue: 1275
+    commit: 13194
+  last180d:
+    since: 2026-03-07
+    release: 100
+    mergedPR: 3055
+    openPR: 817
+    closedIssue: 3256
+    openIssue: 1301
+    commit: 18331
+  last360d:
+    since: 2025-09-08
+    release: 100
+    mergedPR: 3170
+    openPR: 817
+    closedIssue: 3418
+    openIssue: 1301
+    commit: 24906
