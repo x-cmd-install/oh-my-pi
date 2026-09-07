@@ -2,27 +2,27 @@ about:
   description: "⌥ Coding agent with the IDE wired in"
   license: MIT
   homepage: https://omp.sh
-  head: a1b2540
+  head: daf0799
   archived: false
-  latestVersion: "v18.1.13"
-  collectedAt: 2026-09-07T05:40:22Z
+  latestVersion: "v18.1.14"
+  collectedAt: 2026-09-07T18:53:42Z
 timeline:
   created: 2025-12-31
   lastCommit: 2026-09-07
   lastRelease: 2026-09-07
 popularity:
-  star: 29879
+  star: 29996
   watcher: 90
-  fork: 3044
-  release: 596
-  contributor: 528
-  pullRequest: 5899
-  issue: 4932
+  fork: 3059
+  release: 597
+  contributor: 532
+  pullRequest: 5930
+  issue: 4956
 language:
-  TypeScript: 52988853
+  TypeScript: 53090548
   Rust: 7109462
   Python: 3206758
-  Nix: 163844
+  Nix: 163846
   CSS: 150502
   JavaScript: 148667
   Starlark: 70508
@@ -33,74 +33,74 @@ language:
   PowerShell: 10206
   Objective-C: 8841
   AppleScript: 1570
-totalBytes: 63988209
+totalBytes: 64089906
 recent:
   last30d:
     since: 2026-08-08
-    release: 40
-    mergedPR: 770
-    openPR: 676
-    closedIssue: 592
-    openIssue: 729
-    commit: 3112
+    release: 41
+    mergedPR: 788
+    openPR: 674
+    closedIssue: 597
+    openIssue: 748
+    commit: 3164
   last60d:
     since: 2026-07-09
-    release: 85
-    mergedPR: 1684
-    openPR: 923
-    closedIssue: 1425
-    openIssue: 1194
-    commit: 7372
+    release: 86
+    mergedPR: 1702
+    openPR: 880
+    closedIssue: 1430
+    openIssue: 1213
+    commit: 7424
   last90d:
     since: 2026-06-09
     release: 100
-    mergedPR: 2520
-    openPR: 971
-    closedIssue: 2513
-    openIssue: 1425
-    commit: 11989
+    mergedPR: 2538
+    openPR: 918
+    closedIssue: 2518
+    openIssue: 1444
+    commit: 12042
   last180d:
     since: 2026-03-11
     release: 100
-    mergedPR: 3091
-    openPR: 971
-    closedIssue: 3284
-    openIssue: 1468
-    commit: 18492
+    mergedPR: 3109
+    openPR: 918
+    closedIssue: 3289
+    openIssue: 1487
+    commit: 18545
   last360d:
     since: 2025-09-12
     release: 100
-    mergedPR: 3228
-    openPR: 971
-    closedIssue: 3464
-    openIssue: 1468
-    commit: 25221
+    mergedPR: 3246
+    openPR: 918
+    closedIssue: 3469
+    openIssue: 1487
+    commit: 25274
   last720d:
     since: 2024-09-17
     release: 100
-    mergedPR: 3228
-    openPR: 971
-    closedIssue: 3464
-    openIssue: 1468
-    commit: 21394
+    mergedPR: 3246
+    openPR: 918
+    closedIssue: 3469
+    openIssue: 1487
+    commit: 21482
 total:
-  release: 596
-  mergedPR: 3228
-  openPR: 971
-  closedIssue: 3464
-  openIssue: 1468
-  commit: 21394
+  release: 597
+  mergedPR: 3246
+  openPR: 918
+  closedIssue: 3469
+  openIssue: 1487
+  commit: 21482
 ---
 path: /home/runner/.x-repo/github.com/can1357/oh-my-pi
-collectedAt: 2026-09-07T05:41:47Z
+collectedAt: 2026-09-07T18:54:59Z
 loc:
   TypeScript:
-    code: 1190560
-    comments: 145339
-    blanks: 127849
-    files: 4679
+    code: 1192757
+    comments: 145656
+    blanks: 128122
+    files: 4683
   Json:
-    code: 449855
+    code: 449880
     comments: 0
     blanks: 1
     files: 238
@@ -206,8 +206,8 @@ loc:
     files: 2
   Markdown:
     code: 0
-    comments: 41744
-    blanks: 16042
+    comments: 41783
+    blanks: 16067
     files: 542
   Text:
     code: 0
@@ -215,43 +215,43 @@ loc:
     blanks: 12990
     files: 210
 total:
-  code: 1993396
-  comments: 278012
-  blanks: 197300
-  files: 6663
+  code: 1995619
+  comments: 278368
+  blanks: 197599
+  files: 6667
 ---
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:41:54+00:00
+  collectedAt: 2026-09-07T18:55:11+00:00
   platform:
     darwin/arm64:
       name:  omp-darwin-arm64
-      url:   https://github.com/can1357/oh-my-pi/releases/download/v18.1.13/omp-darwin-arm64
-      size:  134998672
+      url:   https://github.com/can1357/oh-my-pi/releases/download/v18.1.14/omp-darwin-arm64
+      size:  135015184
       score: 35
     darwin/amd64:
       name:  omp-darwin-x64
-      url:   https://github.com/can1357/oh-my-pi/releases/download/v18.1.13/omp-darwin-x64
-      size:  143373616
+      url:   https://github.com/can1357/oh-my-pi/releases/download/v18.1.14/omp-darwin-x64
+      size:  143390128
       score: 35
     linux/arm64:
       name:  omp-linux-musl-arm64
-      url:   https://github.com/can1357/oh-my-pi/releases/download/v18.1.13/omp-linux-musl-arm64
+      url:   https://github.com/can1357/oh-my-pi/releases/download/v18.1.14/omp-linux-musl-arm64
       size:  149621968
       score: 35
     linux/amd64:
       name:  omp-linux-x64
-      url:   https://github.com/can1357/oh-my-pi/releases/download/v18.1.13/omp-linux-x64
-      size:  200107488
+      url:   https://github.com/can1357/oh-my-pi/releases/download/v18.1.14/omp-linux-x64
+      size:  200111584
       score: 35
     win/arm64:
       name:  omp-windows-arm64.exe
-      url:   https://github.com/can1357/oh-my-pi/releases/download/v18.1.13/omp-windows-arm64.exe
-      size:  149830144
+      url:   https://github.com/can1357/oh-my-pi/releases/download/v18.1.14/omp-windows-arm64.exe
+      size:  149848064
       score: 35
     win/amd64:
       name:  omp-windows-x64.exe
-      url:   https://github.com/can1357/oh-my-pi/releases/download/v18.1.13/omp-windows-x64.exe
-      size:  160678400
+      url:   https://github.com/can1357/oh-my-pi/releases/download/v18.1.14/omp-windows-x64.exe
+      size:  160688640
       score: 35
