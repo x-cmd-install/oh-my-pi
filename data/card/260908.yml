@@ -1,0 +1,231 @@
+about:
+  description: "⌥ Coding agent with the IDE wired in"
+  license: MIT
+  homepage: https://omp.sh
+  head: daf0799
+  archived: false
+  latestVersion: "v18.1.14"
+  collectedAt: 2026-09-08T02:45:38Z
+timeline:
+  created: 2025-12-31
+  lastCommit: 2026-09-07
+  lastRelease: 2026-09-07
+popularity:
+  star: 30026
+  watcher: 91
+  fork: 3070
+  release: 597
+  contributor: 532
+  pullRequest: 5939
+  issue: 4964
+language:
+  TypeScript: 53090548
+  Rust: 7109462
+  Python: 3206758
+  Nix: 163846
+  CSS: 150502
+  JavaScript: 148667
+  Starlark: 70508
+  Shell: 67680
+  HTML: 23969
+  Dockerfile: 19940
+  Julia: 17409
+  PowerShell: 10206
+  Objective-C: 8841
+  AppleScript: 1570
+totalBytes: 64089906
+recent:
+  last30d:
+    since: 2026-08-09
+    release: 41
+    mergedPR: 764
+    openPR: 672
+    closedIssue: 580
+    openIssue: 737
+    commit: 3164
+  last60d:
+    since: 2026-07-10
+    release: 83
+    mergedPR: 1666
+    openPR: 887
+    closedIssue: 1390
+    openIssue: 1206
+    commit: 7424
+  last90d:
+    since: 2026-06-10
+    release: 100
+    mergedPR: 2514
+    openPR: 926
+    closedIssue: 2497
+    openIssue: 1443
+    commit: 12042
+  last180d:
+    since: 2026-03-12
+    release: 100
+    mergedPR: 3108
+    openPR: 926
+    closedIssue: 3285
+    openIssue: 1494
+    commit: 18545
+  last360d:
+    since: 2025-09-13
+    release: 100
+    mergedPR: 3246
+    openPR: 926
+    closedIssue: 3470
+    openIssue: 1494
+    commit: 25274
+  last720d:
+    since: 2024-09-18
+    release: 100
+    mergedPR: 3246
+    openPR: 926
+    closedIssue: 3470
+    openIssue: 1494
+    commit: 21482
+total:
+  release: 597
+  mergedPR: 3246
+  openPR: 926
+  closedIssue: 3470
+  openIssue: 1494
+  commit: 21482
+---
+path: /home/runner/.x-repo/github.com/can1357/oh-my-pi
+collectedAt: 2026-09-08T02:47:00Z
+loc:
+  TypeScript:
+    code: 1192757
+    comments: 145656
+    blanks: 128122
+    files: 4683
+  Json:
+    code: 449880
+    comments: 0
+    blanks: 1
+    files: 238
+  Rust:
+    code: 210791
+    comments: 10328
+    blanks: 21293
+    files: 462
+  Python:
+    code: 77963
+    comments: 2376
+    blanks: 9946
+    files: 178
+  Protobuf:
+    code: 23449
+    comments: 366
+    blanks: 4016
+    files: 53
+  Tsx:
+    code: 16240
+    comments: 653
+    blanks: 1217
+    files: 115
+  Css:
+    code: 5652
+    comments: 293
+    blanks: 892
+    files: 9
+  JavaScript:
+    code: 4246
+    comments: 503
+    blanks: 371
+    files: 15
+  Toml:
+    code: 3799
+    comments: 423
+    blanks: 460
+    files: 89
+  Nix:
+    code: 2816
+    comments: 80
+    blanks: 47
+    files: 6
+  Sh:
+    code: 1196
+    comments: 318
+    blanks: 160
+    files: 13
+  Dockerfile:
+    code: 397
+    comments: 198
+    blanks: 97
+    files: 7
+  Julia:
+    code: 325
+    comments: 15
+    blanks: 17
+    files: 1
+  Html:
+    code: 301
+    comments: 6
+    blanks: 18
+    files: 14
+  PowerShell:
+    code: 301
+    comments: 9
+    blanks: 3
+    files: 1
+  Hex:
+    code: 255
+    comments: 0
+    blanks: 0
+    files: 1
+  ObjectiveC:
+    code: 246
+    comments: 0
+    blanks: 22
+    files: 1
+  Yaml:
+    code: 195
+    comments: 97
+    blanks: 9
+    files: 3
+  Svg:
+    code: 21
+    comments: 6
+    blanks: 0
+    files: 2
+  Batch:
+    code: 20
+    comments: 0
+    blanks: 0
+    files: 20
+  Xml:
+    code: 9
+    comments: 0
+    blanks: 0
+    files: 2
+  Jupyter:
+    code: 0
+    comments: 0
+    blanks: 0
+    files: 2
+  Markdown:
+    code: 0
+    comments: 41783
+    blanks: 16067
+    files: 542
+  Text:
+    code: 0
+    comments: 61302
+    blanks: 12990
+    files: 210
+total:
+  code: 1995619
+  comments: 278368
+  blanks: 197599
+  files: 6667
+---
+
+---
+platform	name	url	size	score
+darwin/arm64	omp-darwin-arm64	https://github.com/can1357/oh-my-pi/releases/download/v18.1.14/omp-darwin-arm64	135015184	35
+darwin/amd64	omp-darwin-x64	https://github.com/can1357/oh-my-pi/releases/download/v18.1.14/omp-darwin-x64	143390128	35
+linux/arm64	omp-linux-musl-arm64	https://github.com/can1357/oh-my-pi/releases/download/v18.1.14/omp-linux-musl-arm64	149621968	35
+linux/amd64	omp-linux-x64	https://github.com/can1357/oh-my-pi/releases/download/v18.1.14/omp-linux-x64	200111584	35
+win/arm64	omp-windows-arm64.exe	https://github.com/can1357/oh-my-pi/releases/download/v18.1.14/omp-windows-arm64.exe	149848064	35
+win/amd64	omp-windows-x64.exe	https://github.com/can1357/oh-my-pi/releases/download/v18.1.14/omp-windows-x64.exe	160688640	35
