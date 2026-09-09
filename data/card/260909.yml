@@ -2,116 +2,116 @@ about:
   description: "⌥ Coding agent with the IDE wired in"
   license: MIT
   homepage: https://omp.sh
-  head: 856d937
+  head: 61b1b8a
   archived: false
-  latestVersion: "v18.1.15"
-  latestRelease: "v18.1.15"
+  latestVersion: "v18.1.16"
+  latestRelease: "v18.1.16"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T05:43:11Z
+  collectedAt: 2026-09-09T20:05:01Z
 timeline:
   created: 2025-12-31
-  lastCommit: 2026-09-08
-  lastVersion: 2026-09-08
-  lastRelease: 2026-09-08
+  lastCommit: 2026-09-09
+  lastVersion: 2026-09-09
+  lastRelease: 2026-09-09
   lastPrerelease: 
 popularity:
-  star: 30241
+  star: 30372
   watcher: 91
-  fork: 3097
-  release: 598
-  contributor: 536
-  pullRequest: 6038
-  issue: 5010
+  fork: 3113
+  release: 599
+  contributor: 539
+  pullRequest: 6098
+  issue: 5047
 language:
-  TypeScript: 53424882
-  Rust: 7109981
+  TypeScript: 53565491
+  Rust: 7113202
   Python: 3206824
   Nix: 163888
   CSS: 150502
   JavaScript: 148667
   Starlark: 70508
-  Shell: 67680
+  Shell: 67752
   HTML: 23969
   Dockerfile: 19940
   Julia: 17409
   PowerShell: 10206
   Objective-C: 8841
   AppleScript: 1570
-totalBytes: 64424867
+totalBytes: 64568769
 recent:
   last30d:
     since: 2026-08-10
-    release: 41
-    mergedPR: 760
-    openPR: 741
-    closedIssue: 566
-    openIssue: 761
-    commit: 3225
+    release: 42
+    mergedPR: 790
+    openPR: 759
+    closedIssue: 585
+    openIssue: 779
+    commit: 3301
   last60d:
     since: 2026-07-11
-    release: 81
-    mergedPR: 1652
-    openPR: 962
-    closedIssue: 1367
-    openIssue: 1234
-    commit: 7485
+    release: 82
+    mergedPR: 1684
+    openPR: 978
+    closedIssue: 1388
+    openIssue: 1250
+    commit: 7563
   last90d:
     since: 2026-06-11
     release: 100
-    mergedPR: 2510
-    openPR: 1003
-    closedIssue: 2483
-    openIssue: 1477
-    commit: 12103
+    mergedPR: 2542
+    openPR: 1018
+    closedIssue: 2504
+    openIssue: 1493
+    commit: 12181
   last180d:
     since: 2026-03-13
     release: 100
-    mergedPR: 3115
-    openPR: 1003
-    closedIssue: 3291
-    openIssue: 1529
-    commit: 18606
+    mergedPR: 3147
+    openPR: 1018
+    closedIssue: 3312
+    openIssue: 1545
+    commit: 18684
   last360d:
     since: 2025-09-14
     release: 100
-    mergedPR: 3265
-    openPR: 1003
-    closedIssue: 3480
-    openIssue: 1530
-    commit: 25335
+    mergedPR: 3297
+    openPR: 1018
+    closedIssue: 3501
+    openIssue: 1546
+    commit: 25413
   last720d:
     since: 2024-09-19
     release: 100
-    mergedPR: 3265
-    openPR: 1003
-    closedIssue: 3480
-    openIssue: 1530
-    commit: 21592
+    mergedPR: 3297
+    openPR: 1018
+    closedIssue: 3501
+    openIssue: 1546
+    commit: 21698
 total:
-  release: 598
-  mergedPR: 3265
-  openPR: 1003
-  closedIssue: 3480
-  openIssue: 1530
-  commit: 21592
+  release: 599
+  mergedPR: 3297
+  openPR: 1018
+  closedIssue: 3501
+  openIssue: 1546
+  commit: 21698
 ---
 path: /home/runner/.x-repo/github.com/can1357/oh-my-pi
-collectedAt: 2026-09-09T05:44:35Z
+collectedAt: 2026-09-09T20:06:23Z
 loc:
   TypeScript:
-    code: 1200078
-    comments: 146448
-    blanks: 128552
-    files: 4691
+    code: 1202924
+    comments: 146814
+    blanks: 128835
+    files: 4699
   Json:
-    code: 449879
+    code: 449991
     comments: 0
     blanks: 1
     files: 238
   Rust:
-    code: 210806
+    code: 210822
     comments: 10328
-    blanks: 21296
+    blanks: 21335
     files: 462
   Python:
     code: 77965
@@ -149,7 +149,7 @@ loc:
     blanks: 51
     files: 6
   Sh:
-    code: 1196
+    code: 1197
     comments: 318
     blanks: 160
     files: 13
@@ -210,19 +210,19 @@ loc:
     files: 2
   Markdown:
     code: 0
-    comments: 41948
-    blanks: 16150
+    comments: 41957
+    blanks: 16154
     files: 549
   Text:
     code: 0
-    comments: 61302
-    blanks: 12990
+    comments: 61348
+    blanks: 13000
     files: 210
 total:
-  code: 2002972
-  comments: 279323
-  blanks: 198119
-  files: 6682
+  code: 2005947
+  comments: 279759
+  blanks: 198456
+  files: 6690
 ---
 
 ---
