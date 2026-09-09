@@ -4,10 +4,10 @@
 
 - **Upstream**: <https://github.com/can1357/oh-my-pi>
 - **Homepage**: <https://omp.sh>
-- **Latest release**: `v18.1.15` (2026-09-08)
-- **Last commit**: 2026-09-08
+- **Latest release**: `v18.1.16` (2026-09-09)
+- **Last commit**: 2026-09-09
 - **License**: MIT
-- **Stars**: 30241 · **Forks**: 3097 · **Open issues**: 5010 · **Contributors**: 536
+- **Stars**: 30372 · **Forks**: 3113 · **Open issues**: 5047 · **Contributors**: 539
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/oh-my-pi> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T05:44:49Z._
+_Last regenerated: 2026-09-09T20:06:34Z._
