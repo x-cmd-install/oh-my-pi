@@ -2,30 +2,30 @@ about:
   description: "⌥ Coding agent with the IDE wired in"
   license: MIT
   homepage: https://omp.sh
-  head: d720e81
+  head: 856d937
   archived: false
-  latestVersion: "v18.1.14"
-  latestRelease: "v18.1.14"
+  latestVersion: "v18.1.15"
+  latestRelease: "v18.1.15"
   latestPrerelease: ""
-  collectedAt: 2026-09-08T11:48:53Z
+  collectedAt: 2026-09-09T05:43:11Z
 timeline:
   created: 2025-12-31
   lastCommit: 2026-09-08
-  lastVersion: 2026-09-07
-  lastRelease: 2026-09-07
+  lastVersion: 2026-09-08
+  lastRelease: 2026-09-08
   lastPrerelease: 
 popularity:
-  star: 30122
+  star: 30241
   watcher: 91
-  fork: 3083
-  release: 597
-  contributor: 535
-  pullRequest: 5985
-  issue: 4980
+  fork: 3097
+  release: 598
+  contributor: 536
+  pullRequest: 6038
+  issue: 5010
 language:
-  TypeScript: 53120166
-  Rust: 7109462
-  Python: 3206758
+  TypeScript: 53424882
+  Rust: 7109981
+  Python: 3206824
   Nix: 163888
   CSS: 150502
   JavaScript: 148667
@@ -37,84 +37,84 @@ language:
   PowerShell: 10206
   Objective-C: 8841
   AppleScript: 1570
-totalBytes: 64119566
+totalBytes: 64424867
 recent:
   last30d:
-    since: 2026-08-09
+    since: 2026-08-10
     release: 41
-    mergedPR: 769
-    openPR: 709
-    closedIssue: 582
-    openIssue: 751
-    commit: 3186
+    mergedPR: 760
+    openPR: 741
+    closedIssue: 566
+    openIssue: 761
+    commit: 3225
   last60d:
-    since: 2026-07-10
-    release: 83
-    mergedPR: 1671
-    openPR: 924
-    closedIssue: 1392
-    openIssue: 1220
-    commit: 7446
+    since: 2026-07-11
+    release: 81
+    mergedPR: 1652
+    openPR: 962
+    closedIssue: 1367
+    openIssue: 1234
+    commit: 7485
   last90d:
-    since: 2026-06-10
+    since: 2026-06-11
     release: 100
-    mergedPR: 2519
-    openPR: 963
-    closedIssue: 2499
-    openIssue: 1457
-    commit: 12064
+    mergedPR: 2510
+    openPR: 1003
+    closedIssue: 2483
+    openIssue: 1477
+    commit: 12103
   last180d:
-    since: 2026-03-12
+    since: 2026-03-13
     release: 100
-    mergedPR: 3113
-    openPR: 963
-    closedIssue: 3287
-    openIssue: 1508
-    commit: 18567
+    mergedPR: 3115
+    openPR: 1003
+    closedIssue: 3291
+    openIssue: 1529
+    commit: 18606
   last360d:
-    since: 2025-09-13
+    since: 2025-09-14
     release: 100
-    mergedPR: 3251
-    openPR: 963
-    closedIssue: 3472
-    openIssue: 1508
-    commit: 25296
+    mergedPR: 3265
+    openPR: 1003
+    closedIssue: 3480
+    openIssue: 1530
+    commit: 25335
   last720d:
-    since: 2024-09-18
+    since: 2024-09-19
     release: 100
-    mergedPR: 3251
-    openPR: 963
-    closedIssue: 3472
-    openIssue: 1508
-    commit: 21504
+    mergedPR: 3265
+    openPR: 1003
+    closedIssue: 3480
+    openIssue: 1530
+    commit: 21592
 total:
-  release: 597
-  mergedPR: 3251
-  openPR: 963
-  closedIssue: 3472
-  openIssue: 1508
-  commit: 21504
+  release: 598
+  mergedPR: 3265
+  openPR: 1003
+  closedIssue: 3480
+  openIssue: 1530
+  commit: 21592
 ---
 path: /home/runner/.x-repo/github.com/can1357/oh-my-pi
-collectedAt: 2026-09-08T11:50:22Z
+collectedAt: 2026-09-09T05:44:35Z
 loc:
   TypeScript:
-    code: 1193369
-    comments: 145675
-    blanks: 128163
-    files: 4683
+    code: 1200078
+    comments: 146448
+    blanks: 128552
+    files: 4691
   Json:
-    code: 449880
+    code: 449879
     comments: 0
     blanks: 1
     files: 238
   Rust:
-    code: 210791
+    code: 210806
     comments: 10328
-    blanks: 21293
+    blanks: 21296
     files: 462
   Python:
-    code: 77963
+    code: 77965
     comments: 2376
     blanks: 9946
     files: 178
@@ -210,20 +210,20 @@ loc:
     files: 2
   Markdown:
     code: 0
-    comments: 41792
-    blanks: 16072
-    files: 542
+    comments: 41948
+    blanks: 16150
+    files: 549
   Text:
     code: 0
     comments: 61302
     blanks: 12990
     files: 210
 total:
-  code: 1996245
-  comments: 278394
-  blanks: 197649
-  files: 6667
+  code: 2002972
+  comments: 279323
+  blanks: 198119
+  files: 6682
 ---
 
 ---
-{"id":384265534,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOQxs0bc4W520-","tag_name":"v18.1.14","target_commitish":"main","name":"v18.1.14","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-09-07T18:00:19Z","updated_at":"2026-09-07T18:42:26Z","published_at":"2026-09-07T18:42:26Z","assets":[{"id":549227316,"node_id":"RA_kwDOQxs0bc4gvIs0","name":"LICENSE","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":1144,"digest":"sha256:16c45f9d667442781f03fa198914cc39abcaa48ec5ed8f644643e554ca2fbf63","download_count":9,"created_at":"2026-09-07T18:42:14Z","updated_at":"2026-09-07T18:42:14Z"},{"id":549227315,"node_id":"RA_kwDOQxs0bc4gvIsz","name":"omp-browser-relay-extension.zip","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":98734,"digest":"sha256:5243fa6fef06a39f1fe6ebac54d694f57b9ad8112dbba66df6df83ed4028a4a8","download_count":8,"created_at":"2026-09-07T18:42:14Z","updated_at":"2026-09-07T18:42:14Z"},{"id":549227320,"node_id":"RA_kwDOQxs0bc4gvIs4","name":"omp-darwin-arm64","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":135015184,"digest":"sha256:66c09cc5ffc8e080335649579c7cc32212d7e2a13d486a14f45d00f3088ea6d2","download_count":6432,"created_at":"2026-09-07T18:42:14Z","updated_at":"2026-09-07T18:42:23Z"},{"id":549227313,"node_id":"RA_kwDOQxs0bc4gvIsx","name":"omp-darwin-x64","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":143390128,"digest":"sha256:bf5653dfc74bc9aa6edd6967323cabf0cfb76ade80f669ae2e554f27fa2dad0e","download_count":205,"created_at":"2026-09-07T18:42:14Z","updated_at":"2026-09-07T18:42:24Z"},{"id":549227318,"node_id":"RA_kwDOQxs0bc4gvIs2","name":"omp-linux-arm64","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":156551464,"digest":"sha256:93ba1143e95c6a138ecfaea5efa6057e45aa6e40853d88a55b48586d118f7325","download_count":740,"created_at":"2026-09-07T18:42:14Z","updated_at":"2026-09-07T18:42:24Z"},{"id":549227312,"node_id":"RA_kwDOQxs0bc4gvIsw","name":"omp-linux-musl-arm64","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":149621968,"digest":"sha256:b5401be8afee11bd706b452660844101985f89774ecb2aeee03d588d60b942aa","download_count":17,"created_at":"2026-09-07T18:42:14Z","updated_at":"2026-09-07T18:42:23Z"},{"id":549227310,"node_id":"RA_kwDOQxs0bc4gvIsu","name":"omp-linux-musl-x64","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":152307248,"digest":"sha256:617d67627154f2e1a07d5bae36e190a47240a55379a3308cd61e7f62b4ce2e82","download_count":19,"created_at":"2026-09-07T18:42:14Z","updated_at":"2026-09-07T18:42:23Z"},{"id":549227311,"node_id":"RA_kwDOQxs0bc4gvIsv","name":"omp-linux-x64","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":200111584,"digest":"sha256:27dd66cb6a2c39fff51e1fe6db40f1f376fee4a3d04457f236edaa5d0290e4d2","download_count":5100,"created_at":"2026-09-07T18:42:14Z","updated_at":"2026-09-07T18:42:25Z"},{"id":549227317,"node_id":"RA_kwDOQxs0bc4gvIs1","name":"omp-windows-arm64.exe","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-msdos-program","state":"uploaded","size":149848064,"digest":"sha256:9b70fe6b3a3dd69c5ba8f089777f05bc12f68c477f89a226a5863fe8b431192b","download_count":11,"created_at":"2026-09-07T18:42:14Z","updated_at":"2026-09-07T18:42:23Z"},{"id":549227319,"node_id":"RA_kwDOQxs0bc4gvIs3","name":"omp-windows-x64.exe","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-msdos-program","state":"uploaded","size":160688640,"digest":"sha256:f5b46850f92ad2c2aa337b094fbf51742417ecdd808c088e24bb3d21b19e5177","download_count":2780,"created_at":"2026-09-07T18:42:14Z","updated_at":"2026-09-07T18:42:24Z"},{"id":549227321,"node_id":"RA_kwDOQxs0bc4gvIs5","name":"SHA256SUMS.txt","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"text/plain","state":"uploaded","size":934,"digest":"sha256:5601561dfdc3b7892ee81e3c7e378dbc870ad13cf234df5a1e8451ba55f28263","download_count":178,"created_at":"2026-09-07T18:42:14Z","updated_at":"2026-09-07T18:42:14Z"},{"id":549227314,"node_id":"RA_kwDOQxs0bc4gvIsy","name":"THIRD-PARTY-NOTICES.txt","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"text/plain","state":"uploaded","size":1077086,"digest":"sha256:104142244b8781b7828e64aa79a61b03fdf16e8a3464278647c3d84ad22cbce0","download_count":15,"created_at":"2026-09-07T18:42:14Z","updated_at":"2026-09-07T18:42:14Z"}],"body":"## @oh-my-pi/pi-ai\n\n### Fixed\n\n- Fixed reasoning-off requests (e.g. GitHub Copilot `gpt-6-astra`) surfacing `400 Unsupported value: 'none' \u2026 Supported values are: \u2026` instead of retrying at the lowest allowed effort: the reasoning-effort fallback now recognizes `Supported values` phrasing ([#11128](https://github.com/can1357/oh-my-pi/pull/11128) by [@H4vC](https://github.com/H4vC)).\n- Fixed Cursor GPT off-tier requests sending raw `-none` sibling ids (e.g. `gpt-5.6-sol-none-fast`), which the Run endpoint rejects; they now normalize to the base model id with no reasoning parameter, matching every other effort tier ([#11128](https://github.com/can1357/oh-my-pi/pull/11128) by [@H4vC](https://github.com/H4vC)).\n\n## @oh-my-pi/pi-catalog\n\n### Fixed\n\n- Bills Astra API requests above 272K input at the documented 2x input / 1.5x output long-context tier; the Codex subscription route stays exempt with free cache writes ([#11157](https://github.com/can1357/oh-my-pi/pull/11157) by [@H4vC](https://github.com/H4vC)).\n- Fixed Astra's extended window over-advertising input by 128K; it now uses the documented 922K input cap inside the 1.05M total context ([#11157](https://github.com/can1357/oh-my-pi/pull/11157) by [@H4vC](https://github.com/H4vC)).\n- Fixed explicit Codex context-window overrides widening past the server-honored maximum; they now clamp to the documented ceiling like upstream Codex ([#11157](https://github.com/can1357/oh-my-pi/pull/11157) by [@H4vC](https://github.com/H4vC)).\n- Fixed Codex Astra using its larger window without opt-in; its default is 272K and Extended Context enables at least the documented 1.05M window ([#11126](https://github.com/can1357/oh-my-pi/pull/11126) by [@H4vC](https://github.com/H4vC)).\n- Fixed GitHub Copilot enterprise-only model ids inheriting another provider's wire routing (e.g. `gpt-5.6-sol-fast` pinning every request to the `-none` sibling id regardless of thinking level) ([#11128](https://github.com/can1357/oh-my-pi/pull/11128) by [@H4vC](https://github.com/H4vC)).\n\n## @oh-my-pi/pi-coding-agent\n\n### Fixed\n\n- The startup update notice counts every change in a release: bullets written above a `###` heading now count under `Other`, and `+`/`*` markers and lightly indented bullets count like `-`.\n- Fixed Codex Astra retaining its larger window after disabling Extended Context, including cached models; explicit model overrides still take precedence.\n- Fixed explicit Codex context-window overrides widening past the server-honored maximum; they now clamp to the documented ceiling like upstream Codex ([#11157](https://github.com/can1357/oh-my-pi/pull/11157) by [@H4vC](https://github.com/H4vC)).\n- Fixed Astra's extended window over-advertising input by 128K; it now uses the documented 922K input cap inside the 1.05M total context ([#11157](https://github.com/can1357/oh-my-pi/pull/11157) by [@H4vC](https://github.com/H4vC)).\n- Bills Astra API requests above 272K input at the documented 2x input / 1.5x output long-context tier; the Codex subscription route stays exempt with free cache writes ([#11157](https://github.com/can1357/oh-my-pi/pull/11157) by [@H4vC](https://github.com/H4vC)).\n- Fixed Extended Context silently enabling without a settings source (SDK embedding, early boot); it now matches the off default until opted in ([#11157](https://github.com/can1357/oh-my-pi/pull/11157) by [@H4vC](https://github.com/H4vC)).\n- Fixed `/copy` link captions showing Markdown delimiters for formatted labels and splitting across two rows for multiline labels ([#11086](https://github.com/can1357/oh-my-pi/pull/11086) by [@mustafaabidali](https://github.com/mustafaabidali)).\n- Fixed Ask custom answers requiring another submission after paste or remaining on the same multi-select question; pending clipboard text is preserved before submission, and single-question multi-select answers still go through review ([#11099](https://github.com/can1357/oh-my-pi/pull/11099) by [@camjac251](https://github.com/camjac251)).\n- The startup update notice no longer counts standalone `* * *` and `- - -` separator lines as changes.\n- Fixed `/loop` replacing the repeating prompt with a mid-turn interjection; steering while the agent runs is now one-off, and only an idle submission becomes the new loop body ([#11159](https://github.com/can1357/oh-my-pi/pull/11159) by [@H4vC](https://github.com/H4vC)).\n\n## @oh-my-pi/pi-tui\n\n### Fixed\n\n- `extractMarkdownLinks()` now returns one-row visible labels for formatted and multiline links ([#11086](https://github.com/can1357/oh-my-pi/pull/11086) by [@mustafaabidali](https://github.com/mustafaabidali)).\n\n\n## What's Changed\n* fix(lsp): evaluate idle timeout per workspace client (#8389) by @harshaygadekar in https://github.com/can1357/oh-my-pi/pull/10237\n* test(mcp): event-gate the reauth manual-input claim instead of a wall-clock budget by @rigel-mintaka in https://github.com/can1357/oh-my-pi/pull/11117\n* fix(coding-agent): preserve and advance Ask custom answers by @camjac251 in https://github.com/can1357/oh-my-pi/pull/11099\n* fix(tui,copy): flatten Markdown link labels to one visible row for /copy captions by @mustafaabidali in https://github.com/can1357/oh-my-pi/pull/11086\n* fix(catalog,coding-agent): keep Astra 1.05M window behind extended-context opt it by @H4vC in https://github.com/can1357/oh-my-pi/pull/11126\n* fix(ai): preserve Codex WebSocket abort causes by @Morrowmake in https://github.com/can1357/oh-my-pi/pull/11046\n* docs(browser): clarify tab.evaluate string semantics by @vwsa in https://github.com/can1357/oh-my-pi/pull/11114\n* fix(changelog): stop the startup notice undercounting a release by @2233admin in https://github.com/can1357/oh-my-pi/pull/11070\n* docs(changelog): hoist post-18.1.12 changes into 18.1.13 by @H4vC in https://github.com/can1357/oh-my-pi/pull/11138\n* fix(changelog): skip thematic breaks and gate unreleased notes by con\u2026 by @H4vC in https://github.com/can1357/oh-my-pi/pull/11134\n* fix(ai): retry Copilot Supported-values none rejection; normalize Cur\u2026 by @H4vC in https://github.com/can1357/oh-my-pi/pull/11128\n* test(mcp): replace the remaining wall-clock gates in the reauth tests with sync points by @rigel-mintaka in https://github.com/can1357/oh-my-pi/pull/11146\n* test(coding-agent): fix red runtime/session job on main by @sethmorton in https://github.com/can1357/oh-my-pi/pull/9460\n* fix(robomp): load work-items fixture from URL by @roboomp in https://github.com/can1357/oh-my-pi/pull/10886\n* fix(cli): reap orphaned IPC subprocess workers when parent terminates by @harshaygadekar in https://github.com/can1357/oh-my-pi/pull/11141\n* fix(compaction): defer idle compaction while an async job is pending by @mattwilkinsonn in https://github.com/can1357/oh-my-pi/pull/10223\n* Fix/codex faithful context window by @H4vC in https://github.com/can1357/oh-my-pi/pull/11157\n* fix(coding-agent): keep mid-turn steers from replacing the /loop prompt by @H4vC in https://github.com/can1357/oh-my-pi/pull/11159\n\n## New Contributors\n* @harshaygadekar made their first contribution in https://github.com/can1357/oh-my-pi/pull/10237\n* @rigel-mintaka made their first contribution in https://github.com/can1357/oh-my-pi/pull/11117\n* @camjac251 made their first contribution in https://github.com/can1357/oh-my-pi/pull/11099\n* @Morrowmake made their first contribution in https://github.com/can1357/oh-my-pi/pull/11046\n* @vwsa made their first contribution in https://github.com/can1357/oh-my-pi/pull/11114\n* @2233admin made their first contribution in https://github.com/can1357/oh-my-pi/pull/11070\n\n**Full Changelog**: https://github.com/can1357/oh-my-pi/compare/v18.1.13...v18.1.14","reactions":{"total_count":5,"+1":3,"-1":0,"laugh":0,"hooray":0,"confused":0,"heart":2,"rocket":0,"eyes":0},"mentions_count":11}
+{"id":385106941,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOQxs0bc4W9EP9","tag_name":"v18.1.15","target_commitish":"main","name":"v18.1.15","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-09-08T18:42:08Z","updated_at":"2026-09-08T22:40:03Z","published_at":"2026-09-08T22:40:03Z","assets":[{"id":551459264,"node_id":"RA_kwDOQxs0bc4g3pnA","name":"LICENSE","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":1144,"digest":"sha256:16c45f9d667442781f03fa198914cc39abcaa48ec5ed8f644643e554ca2fbf63","download_count":8,"created_at":"2026-09-08T22:39:52Z","updated_at":"2026-09-08T22:39:52Z"},{"id":551459275,"node_id":"RA_kwDOQxs0bc4g3pnL","name":"omp-browser-relay-extension.zip","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":98734,"digest":"sha256:243f6c5898d96d78a957194c1ac871d970dd3e60b554bc99df2111c55e015b02","download_count":8,"created_at":"2026-09-08T22:39:52Z","updated_at":"2026-09-08T22:39:52Z"},{"id":551459270,"node_id":"RA_kwDOQxs0bc4g3pnG","name":"omp-darwin-arm64","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":135130768,"digest":"sha256:e1e090262f7470d51360ea943d80c3ef03d6178e573b03d0c3d21af5d424e8be","download_count":3448,"created_at":"2026-09-08T22:39:52Z","updated_at":"2026-09-08T22:39:59Z"},{"id":551459267,"node_id":"RA_kwDOQxs0bc4g3pnD","name":"omp-darwin-x64","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":143555248,"digest":"sha256:79dc22410795b8450e9f41b013c9459204a5c2958d898ee6e1730839b59bb4dc","download_count":103,"created_at":"2026-09-08T22:39:52Z","updated_at":"2026-09-08T22:40:00Z"},{"id":551459262,"node_id":"RA_kwDOQxs0bc4g3pm-","name":"omp-linux-arm64","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":156748072,"digest":"sha256:2e1142ccd4bb76413b63a05711ac51c7b95551f36387ef295661bb86f0576189","download_count":683,"created_at":"2026-09-08T22:39:52Z","updated_at":"2026-09-08T22:40:00Z"},{"id":551459266,"node_id":"RA_kwDOQxs0bc4g3pnC","name":"omp-linux-musl-arm64","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":149753040,"digest":"sha256:a23748c5a46d8281df747efcc0dc8523e26fd4617f140e05b039fb3204ed3dba","download_count":7,"created_at":"2026-09-08T22:39:52Z","updated_at":"2026-09-08T22:40:00Z"},{"id":551459271,"node_id":"RA_kwDOQxs0bc4g3pnH","name":"omp-linux-musl-x64","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":152466992,"digest":"sha256:f31f2aed16b5e9f43d8dbf6ce9b96c54972122fc9d3c4f5e9230503561942d32","download_count":8,"created_at":"2026-09-08T22:39:52Z","updated_at":"2026-09-08T22:40:00Z"},{"id":551459272,"node_id":"RA_kwDOQxs0bc4g3pnI","name":"omp-linux-x64","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":200406496,"digest":"sha256:747518a41fbb32ac47491b4677a7a921d0d9e5977ae006c358d6836813149adc","download_count":2600,"created_at":"2026-09-08T22:39:52Z","updated_at":"2026-09-08T22:40:03Z"},{"id":551459263,"node_id":"RA_kwDOQxs0bc4g3pm_","name":"omp-windows-arm64.exe","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-msdos-program","state":"uploaded","size":149995520,"digest":"sha256:875c54c5faa9a80f277eebccc2d123670a0bf2f3a246bd2253f99ad7e523ca62","download_count":7,"created_at":"2026-09-08T22:39:52Z","updated_at":"2026-09-08T22:40:00Z"},{"id":551459268,"node_id":"RA_kwDOQxs0bc4g3pnE","name":"omp-windows-x64.exe","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-msdos-program","state":"uploaded","size":160843776,"digest":"sha256:3c6856f4fe2aa77007a60a48dabdf66aaa4c5b5e108223d2cbf6807608401b8e","download_count":1278,"created_at":"2026-09-08T22:39:52Z","updated_at":"2026-09-08T22:40:01Z"},{"id":551459265,"node_id":"RA_kwDOQxs0bc4g3pnB","name":"SHA256SUMS.txt","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"text/plain","state":"uploaded","size":934,"digest":"sha256:41f5b7770b519ab49782b5dd38cd755014e5e92db9db4a264b89bf0865191f53","download_count":98,"created_at":"2026-09-08T22:39:52Z","updated_at":"2026-09-08T22:39:52Z"},{"id":551459269,"node_id":"RA_kwDOQxs0bc4g3pnF","name":"THIRD-PARTY-NOTICES.txt","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"text/plain","state":"uploaded","size":1077086,"digest":"sha256:104142244b8781b7828e64aa79a61b03fdf16e8a3464278647c3d84ad22cbce0","download_count":7,"created_at":"2026-09-08T22:39:52Z","updated_at":"2026-09-08T22:39:52Z"}],"body":"## @oh-my-pi/pi-ai\n\n### Fixed\n\n- GitHub Copilot sign-in keeps the GitHub-owned Copilot CLI OAuth app on Enterprise domains: private instances run their own OAuth registry and reject the github.com-registered OpenCode client, which is now used only for public github.com sign-ins ([#11285](https://github.com/can1357/oh-my-pi/pull/11285) by [@H4vC](https://github.com/H4vC))\n- GitHub Copilot sign-in uses the minimal-grant OpenCode OAuth app again (`read:user` only): GitHub renders each app's existing per-user grant on the consent page, so Enterprise organizations that block the Copilot CLI app's broad historic grant can log in as on 18.1.4. API request identity still mimics the Copilot CLI, and tokens minted by either app keep working ([#11280](https://github.com/can1357/oh-my-pi/pull/11280) by [@H4vC](https://github.com/H4vC)).\n- GitHub Copilot plan/model-policy 403s no longer count as credential failures for credential-lifetime decisions: the token is valid, so stored credentials are preserved instead of wiped ([#11280](https://github.com/can1357/oh-my-pi/pull/11280) by [@H4vC](https://github.com/H4vC)).\n- Fixed custom `google-generative-ai` providers failing mid-turn model fallback when Gemini 3 tool calls are replayed without their original thought signature ([#11270](https://github.com/can1357/oh-my-pi/issues/11270)).\n\n## @oh-my-pi/pi-coding-agent\n\n### Added\n\n- Added `advisor.maxNotesPerUpdate` setting and `WATCHDOG.yml` configuration (default `4`): allows reasoning verifiers to batch findings in a single review update without being rate-limited.\n- Headless browser tabs now freeze when a turn settles so idle animated/WebGL pages stop burning CPU/GPU, resuming automatically on next use; tabs idle past `browser.idleCloseSec` (default 30 minutes) are closed. `persist: true` on `browser.open` opts a tab out of both ([#8246](https://github.com/can1357/oh-my-pi/issues/8246) by [@H4vC](https://github.com/H4vC)).\n\n### Changed\n\n- When enabled (`task.showResolvedModelBadge`), subagent model badges show the thinking-level icon, model name, and attached-advisor eye before the agent name in task, eval, job, and HUD rows.\n\n### Fixed\n\n- Task descriptions containing tabs no longer misalign or overflow task rows; tabs are expanded before measuring and rendering.\n- GitHub Copilot model-policy 403s (plan, model policy, org restriction) no longer delete stored credentials, so the provider stays listed in `/model` after a per-model access denial instead of disappearing until the next `/login` ([#11280](https://github.com/can1357/oh-my-pi/pull/11280) by [@H4vC](https://github.com/H4vC)).\n- Bash results no longer replace a failing command's output with the shell minimizer's lossy summary when the original capture cannot be persisted as an artifact; the raw diagnostics are kept so a failure stays actionable ([#11081](https://github.com/can1357/oh-my-pi/issues/11081)).\n- Fixed worker subprocesses failing to declare themselves as worker hosts before dispatching selectors, which prevented nested thread worker spawns during `/usage` stats sync on multi-core systems.\n- Fixed `/usage` displaying a misleading generic database read failure when activity loading fails; the error detail is now sanitized, collapsed to a single line with shortened paths, and surfaced in the dashboard.\n- Advisor notes now report rate limiting accurately, blockers always interrupt even after a lower-severity note in the same update, and deferred notes flush when the primary run completes, including after advisor quota exhaustion ([#11062](https://github.com/can1357/oh-my-pi/issues/11062)).\n- Fixed the built-in clangd registration omitting CUDA source and header files (`.cu` and `.cuh`) ([#10782](https://github.com/can1357/oh-my-pi/pull/10782) by [@alphastorm](https://github.com/alphastorm)).\n- Fixed `ast_grep` skipping CUDA headers and ignoring an explicit `lang` override for ambiguous file extensions ([#10782](https://github.com/can1357/oh-my-pi/pull/10782) by [@alphastorm](https://github.com/alphastorm)).\n- Python cells are no longer replayed automatically after a kernel crash, preventing duplicate side effects; the next call starts a fresh kernel.\n- Session rewrites preserve open-reader snapshots and replacement identity when a rename needs an EPERM fallback.\n- Fixed WorkPool children retaining a stale Gemini-formatted `yield` declaration when pooled items were installed or cleared.\n\n## @oh-my-pi/pi-natives\n\n### Fixed\n\n- Fixed C++ language inference excluding CUDA header (`.cuh`) files ([#10782](https://github.com/can1357/oh-my-pi/pull/10782) by [@alphastorm](https://github.com/alphastorm)).\n\n## @oh-my-pi/pi-tui\n\n### Fixed\n\n- Stopped long flicker when moving or resizing an omp pane in Warp. Resize repaints in place there after the drag settles (override with `PI_TUI_RESIZE_IN_PLACE=0`), with no alternate-screen borrow, no scrollback replay, blanked live rows so shrink drags cannot archive unfinished rows, and overlay toggle echoes repainting the modal instead of probing ([#11247](https://github.com/can1357/oh-my-pi/pull/11247) by [@H4vC](https://github.com/H4vC)).\n\n\n## What's Changed\n* fix(cli, usage): declare worker host entry before worker selector dispatch and surface activity error by @keethesh in https://github.com/can1357/oh-my-pi/pull/11201\n* feat(advisor): add configurable advice budget per update (default 4) by @korri123 in https://github.com/can1357/oh-my-pi/pull/11066\n* refactor: stop importing nixpkgs by @n3oney in https://github.com/can1357/oh-my-pi/pull/11170\n* fix(session): preserve replacement identity after rename denial by @iliaal in https://github.com/can1357/oh-my-pi/pull/11224\n* fix(eval): avoid replaying cells after kernel failure by @iliaal in https://github.com/can1357/oh-my-pi/pull/11225\n* feat(browser): freeze idle headless tabs at turn settle with idle-clo\u2026 by @H4vC in https://github.com/can1357/oh-my-pi/pull/11220\n* Fix/cuda cuh review nits by @H4vC in https://github.com/can1357/oh-my-pi/pull/11251\n* docs(notebook): point runtime links at the native edit implementation by @oleg494 in https://github.com/can1357/oh-my-pi/pull/11253\n* fix(bash): keep raw diagnostics when a minimized failure cannot be persisted by @oleg494 in https://github.com/can1357/oh-my-pi/pull/11259\n* fix(tui): skip resize alt-buffer borrow on Warp by @H4vC in https://github.com/can1357/oh-my-pi/pull/11247\n* fix(catalog): applied gemini wire policy to custom providers by @roboomp in https://github.com/can1357/oh-my-pi/pull/11274\n* fix(copilot): minimal-grant OAuth app and preserve creds on 403 by @H4vC in https://github.com/can1357/oh-my-pi/pull/11280\n* fix(coding-agent): match finalized tool args in ttsr by @roboomp in https://github.com/can1357/oh-my-pi/pull/10912\n* fix(copilot): keep official OAuth client for enterprise domains by @H4vC in https://github.com/can1357/oh-my-pi/pull/11285\n* feat(coding-agent): clarify subagent model badges by @Unravl in https://github.com/can1357/oh-my-pi/pull/11161\n* fix(coding-agent): expand tabs in task descriptions before render by @H4vC in https://github.com/can1357/oh-my-pi/pull/11292\n* fix(coding-agent): refresh WorkPool yield prompts by @alphastorm in https://github.com/can1357/oh-my-pi/pull/10784\n\n## New Contributors\n* @keethesh made their first contribution in https://github.com/can1357/oh-my-pi/pull/11201\n* @n3oney made their first contribution in https://github.com/can1357/oh-my-pi/pull/11170\n* @iliaal made their first contribution in https://github.com/can1357/oh-my-pi/pull/11224\n* @oleg494 made their first contribution in https://github.com/can1357/oh-my-pi/pull/11253\n\n**Full Changelog**: https://github.com/can1357/oh-my-pi/compare/v18.1.14...v18.1.15","reactions":{"total_count":7,"+1":5,"-1":0,"laugh":0,"hooray":0,"confused":0,"heart":2,"rocket":0,"eyes":0},"mentions_count":9}
