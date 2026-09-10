@@ -2,9 +2,9 @@
   srcname: oh-my-pi
   binname: oh-my-pi
   visiblename: oh-my-pi
-  version: 18.1.16
-  origversion: 18.1.16-1
-  status: outdated
+  version: 18.1.17
+  origversion: 18.1.17-1
+  status: newest
   summary: A coding agent with the IDE wired in
   maintainers:
     - bjin@aur
@@ -54,8 +54,8 @@
   subrepo: main
   binname: oh-my-pi
   visiblename: oh-my-pi
-  version: 18.1.16
+  version: 18.1.17
   origversion: null
-  status: outdated
+  status: newest
   licenses:
     - MIT
