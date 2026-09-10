@@ -38,22 +38,22 @@ Total: **2,016,505** lines of code across **5642** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 30,526 · **Forks**: 3,143 · **Open issues**: 5,129 · **Contributors**: 545
+- **Stars**: 30,542 · **Forks**: 3,145 · **Open issues**: 5,136 · **Contributors**: 545
 
 ## Totals (cumulative)
 
-- **Releases**: 600 · **Merged PRs**: 3326 · **Open PRs**: 1088 · **Closed issues**: 3510 · **Open issues**: 1619 · **Commits**: 21846
+- **Releases**: 600 · **Merged PRs**: 3326 · **Open PRs**: 1093 · **Closed issues**: 3510 · **Open issues**: 1626 · **Commits**: 21846
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 43 | 795 | 816 | 572 | 832 | 3382 |
-| last60d | 2026-07-12 | 80 | 1706 | 1044 | 1372 | 1315 | 7648 |
-| 90d | 2026-06-12 | 100 | 2550 | 1088 | 2470 | 1559 | 12266 |
-| last180d | 2026-03-14 | 100 | 3171 | 1088 | 3315 | 1618 | 18769 |
-| 360d | 2025-09-15 | 100 | 3326 | 1088 | 3510 | 1619 | 25498 |
-| last720d | 2024-09-20 | 100 | 3326 | 1088 | 3510 | 1619 | 21846 |
+| 30d | 2026-08-11 | 43 | 795 | 821 | 572 | 839 | 3382 |
+| last60d | 2026-07-12 | 80 | 1706 | 1049 | 1372 | 1322 | 7648 |
+| 90d | 2026-06-12 | 100 | 2550 | 1093 | 2470 | 1566 | 12266 |
+| last180d | 2026-03-14 | 100 | 3171 | 1093 | 3315 | 1625 | 18769 |
+| 360d | 2025-09-15 | 100 | 3326 | 1093 | 3510 | 1626 | 25498 |
+| last720d | 2024-09-20 | 100 | 3326 | 1093 | 3510 | 1626 | 21846 |
 
 ## Release assets
 
@@ -74,7 +74,7 @@ Total: **2,016,505** lines of code across **5642** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **5** distros on [repology.org](https://repology.org/project/oh-my-pi). **1** are ✅ on the latest upstream release, **3** are ⚠️ on an older version.
+Reported by **5** distros on [repology.org](https://repology.org/project/oh-my-pi). **3** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
 
 ## Improve this data
 
@@ -85,4 +85,4 @@ Install metadata for oh-my-pi lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T20:26:16Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T23:28:17Z._
