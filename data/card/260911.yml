@@ -1,0 +1,228 @@
+about:
+  description: "⌥ Coding agent with the IDE wired in"
+  license: MIT
+  homepage: https://omp.sh
+  head: 3b3a6dc
+  archived: false
+  latestVersion: "v18.1.17"
+  latestRelease: "v18.1.17"
+  latestPrerelease: ""
+  collectedAt: 2026-09-11T05:45:05Z
+timeline:
+  created: 2025-12-31
+  lastCommit: 2026-09-10
+  lastVersion: 2026-09-10
+  lastRelease: 2026-09-10
+  lastPrerelease: 
+popularity:
+  star: 30578
+  watcher: 91
+  fork: 3147
+  release: 600
+  contributor: 545
+  pullRequest: 6230
+  issue: 5146
+language:
+  TypeScript: 53919361
+  Rust: 7118343
+  Python: 3206824
+  Nix: 163888
+  CSS: 150502
+  JavaScript: 148667
+  Starlark: 70508
+  Shell: 67752
+  HTML: 23969
+  Dockerfile: 19940
+  Julia: 17409
+  PowerShell: 10206
+  Objective-C: 8841
+  AppleScript: 1570
+totalBytes: 64927780
+recent:
+  last30d:
+    since: 2026-08-12
+    release: 41
+    mergedPR: 773
+    openPR: 824
+    closedIssue: 542
+    openIssue: 835
+    commit: 3382
+  last60d:
+    since: 2026-07-13
+    release: 78
+    mergedPR: 1704
+    openPR: 1063
+    closedIssue: 1349
+    openIssue: 1320
+    commit: 7648
+  last90d:
+    since: 2026-06-13
+    release: 100
+    mergedPR: 2515
+    openPR: 1107
+    closedIssue: 2428
+    openIssue: 1573
+    commit: 12266
+  last180d:
+    since: 2026-03-15
+    release: 100
+    mergedPR: 3167
+    openPR: 1107
+    closedIssue: 3310
+    openIssue: 1635
+    commit: 18769
+  last360d:
+    since: 2025-09-16
+    release: 100
+    mergedPR: 3326
+    openPR: 1107
+    closedIssue: 3510
+    openIssue: 1636
+    commit: 25498
+  last720d:
+    since: 2024-09-21
+    release: 100
+    mergedPR: 3326
+    openPR: 1107
+    closedIssue: 3510
+    openIssue: 1636
+    commit: 21846
+total:
+  release: 600
+  mergedPR: 3326
+  openPR: 1107
+  closedIssue: 3510
+  openIssue: 1636
+  commit: 21846
+---
+path: /home/runner/.x-repo/github.com/can1357/oh-my-pi
+collectedAt: 2026-09-11T05:46:29Z
+loc:
+  TypeScript:
+    code: 1210470
+    comments: 147668
+    blanks: 129446
+    files: 4711
+  Json:
+    code: 457642
+    comments: 0
+    blanks: 1
+    files: 238
+  Rust:
+    code: 210924
+    comments: 10332
+    blanks: 21344
+    files: 462
+  Python:
+    code: 77965
+    comments: 2376
+    blanks: 9946
+    files: 178
+  Protobuf:
+    code: 23449
+    comments: 366
+    blanks: 4016
+    files: 53
+  Tsx:
+    code: 16261
+    comments: 657
+    blanks: 1219
+    files: 115
+  Css:
+    code: 5652
+    comments: 293
+    blanks: 892
+    files: 9
+  JavaScript:
+    code: 4246
+    comments: 503
+    blanks: 371
+    files: 15
+  Toml:
+    code: 3799
+    comments: 423
+    blanks: 460
+    files: 89
+  Nix:
+    code: 2830
+    comments: 78
+    blanks: 51
+    files: 6
+  Sh:
+    code: 1197
+    comments: 318
+    blanks: 160
+    files: 13
+  Dockerfile:
+    code: 397
+    comments: 198
+    blanks: 97
+    files: 7
+  Julia:
+    code: 325
+    comments: 15
+    blanks: 17
+    files: 1
+  Html:
+    code: 301
+    comments: 6
+    blanks: 18
+    files: 14
+  PowerShell:
+    code: 301
+    comments: 9
+    blanks: 3
+    files: 1
+  Hex:
+    code: 255
+    comments: 0
+    blanks: 0
+    files: 1
+  ObjectiveC:
+    code: 246
+    comments: 0
+    blanks: 22
+    files: 1
+  Yaml:
+    code: 195
+    comments: 97
+    blanks: 9
+    files: 3
+  Svg:
+    code: 21
+    comments: 6
+    blanks: 0
+    files: 2
+  Batch:
+    code: 20
+    comments: 0
+    blanks: 0
+    files: 20
+  Xml:
+    code: 9
+    comments: 0
+    blanks: 0
+    files: 2
+  Jupyter:
+    code: 0
+    comments: 0
+    blanks: 0
+    files: 2
+  Markdown:
+    code: 0
+    comments: 42134
+    blanks: 16231
+    files: 549
+  Text:
+    code: 0
+    comments: 61348
+    blanks: 13000
+    files: 210
+total:
+  code: 2021268
+  comments: 280814
+  blanks: 199156
+  files: 6702
+---
+
+---
