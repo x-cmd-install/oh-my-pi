@@ -38,22 +38,22 @@ Total: **2,016,505** lines of code across **5642** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 30,542 · **Forks**: 3,145 · **Open issues**: 5,136 · **Contributors**: 545
+- **Stars**: 30,578 · **Forks**: 3,147 · **Open issues**: 5,146 · **Contributors**: 545
 
 ## Totals (cumulative)
 
-- **Releases**: 600 · **Merged PRs**: 3326 · **Open PRs**: 1093 · **Closed issues**: 3510 · **Open issues**: 1626 · **Commits**: 21846
+- **Releases**: 600 · **Merged PRs**: 3326 · **Open PRs**: 1107 · **Closed issues**: 3510 · **Open issues**: 1636 · **Commits**: 21846
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 43 | 795 | 821 | 572 | 839 | 3382 |
-| last60d | 2026-07-12 | 80 | 1706 | 1049 | 1372 | 1322 | 7648 |
-| 90d | 2026-06-12 | 100 | 2550 | 1093 | 2470 | 1566 | 12266 |
-| last180d | 2026-03-14 | 100 | 3171 | 1093 | 3315 | 1625 | 18769 |
-| 360d | 2025-09-15 | 100 | 3326 | 1093 | 3510 | 1626 | 25498 |
-| last720d | 2024-09-20 | 100 | 3326 | 1093 | 3510 | 1626 | 21846 |
+| 30d | 2026-08-12 | 41 | 773 | 824 | 542 | 835 | 3382 |
+| last60d | 2026-07-13 | 78 | 1704 | 1063 | 1349 | 1320 | 7648 |
+| 90d | 2026-06-13 | 100 | 2515 | 1107 | 2428 | 1573 | 12266 |
+| last180d | 2026-03-15 | 100 | 3167 | 1107 | 3310 | 1635 | 18769 |
+| 360d | 2025-09-16 | 100 | 3326 | 1107 | 3510 | 1636 | 25498 |
+| last720d | 2024-09-21 | 100 | 3326 | 1107 | 3510 | 1636 | 21846 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for oh-my-pi lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T23:28:17Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T05:46:42Z._
