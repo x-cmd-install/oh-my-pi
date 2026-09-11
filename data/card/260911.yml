@@ -2,29 +2,29 @@ about:
   description: "⌥ Coding agent with the IDE wired in"
   license: MIT
   homepage: https://omp.sh
-  head: 3b3a6dc
+  head: c2dfdd0
   archived: false
   latestVersion: "v18.1.17"
   latestRelease: "v18.1.17"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T05:45:05Z
+  collectedAt: 2026-09-11T19:05:23Z
 timeline:
   created: 2025-12-31
-  lastCommit: 2026-09-10
+  lastCommit: 2026-09-11
   lastVersion: 2026-09-10
   lastRelease: 2026-09-10
   lastPrerelease: 
 popularity:
-  star: 30578
+  star: 30684
   watcher: 91
-  fork: 3147
+  fork: 3170
   release: 600
-  contributor: 545
-  pullRequest: 6230
-  issue: 5146
+  contributor: 548
+  pullRequest: 6291
+  issue: 5204
 language:
-  TypeScript: 53919361
-  Rust: 7118343
+  TypeScript: 54219086
+  Rust: 7118605
   Python: 3206824
   Nix: 163888
   CSS: 150502
@@ -34,84 +34,84 @@ language:
   HTML: 23969
   Dockerfile: 19940
   Julia: 17409
-  PowerShell: 10206
+  PowerShell: 11167
   Objective-C: 8841
   AppleScript: 1570
-totalBytes: 64927780
+totalBytes: 65228728
 recent:
   last30d:
     since: 2026-08-12
     release: 41
-    mergedPR: 773
-    openPR: 824
-    closedIssue: 542
-    openIssue: 835
-    commit: 3382
+    mergedPR: 806
+    openPR: 846
+    closedIssue: 574
+    openIssue: 861
+    commit: 3501
   last60d:
     since: 2026-07-13
     release: 78
-    mergedPR: 1704
-    openPR: 1063
-    closedIssue: 1349
-    openIssue: 1320
-    commit: 7648
+    mergedPR: 1737
+    openPR: 1086
+    closedIssue: 1381
+    openIssue: 1346
+    commit: 7767
   last90d:
     since: 2026-06-13
     release: 100
-    mergedPR: 2515
-    openPR: 1107
-    closedIssue: 2428
-    openIssue: 1573
-    commit: 12266
+    mergedPR: 2548
+    openPR: 1130
+    closedIssue: 2460
+    openIssue: 1599
+    commit: 12385
   last180d:
     since: 2026-03-15
     release: 100
-    mergedPR: 3167
-    openPR: 1107
-    closedIssue: 3310
-    openIssue: 1635
-    commit: 18769
+    mergedPR: 3200
+    openPR: 1130
+    closedIssue: 3342
+    openIssue: 1661
+    commit: 18888
   last360d:
     since: 2025-09-16
     release: 100
-    mergedPR: 3326
-    openPR: 1107
-    closedIssue: 3510
-    openIssue: 1636
-    commit: 25498
+    mergedPR: 3359
+    openPR: 1130
+    closedIssue: 3542
+    openIssue: 1662
+    commit: 25617
   last720d:
     since: 2024-09-21
     release: 100
-    mergedPR: 3326
-    openPR: 1107
-    closedIssue: 3510
-    openIssue: 1636
-    commit: 21846
+    mergedPR: 3359
+    openPR: 1130
+    closedIssue: 3542
+    openIssue: 1662
+    commit: 22010
 total:
   release: 600
-  mergedPR: 3326
-  openPR: 1107
-  closedIssue: 3510
-  openIssue: 1636
-  commit: 21846
+  mergedPR: 3359
+  openPR: 1130
+  closedIssue: 3542
+  openIssue: 1662
+  commit: 22010
 ---
 path: /home/runner/.x-repo/github.com/can1357/oh-my-pi
-collectedAt: 2026-09-11T05:46:29Z
+collectedAt: 2026-09-11T19:06:46Z
 loc:
   TypeScript:
-    code: 1210470
-    comments: 147668
-    blanks: 129446
-    files: 4711
+    code: 1216108
+    comments: 148781
+    blanks: 129961
+    files: 4724
   Json:
-    code: 457642
+    code: 458891
     comments: 0
     blanks: 1
     files: 238
   Rust:
-    code: 210924
+    code: 210935
     comments: 10332
-    blanks: 21344
+    blanks: 21345
     files: 462
   Python:
     code: 77965
@@ -163,16 +163,16 @@ loc:
     comments: 15
     blanks: 17
     files: 1
+  PowerShell:
+    code: 317
+    comments: 9
+    blanks: 3
+    files: 1
   Html:
     code: 301
     comments: 6
     blanks: 18
     files: 14
-  PowerShell:
-    code: 301
-    comments: 9
-    blanks: 3
-    files: 1
   Hex:
     code: 255
     comments: 0
@@ -210,19 +210,19 @@ loc:
     files: 2
   Markdown:
     code: 0
-    comments: 42134
-    blanks: 16231
-    files: 549
+    comments: 42394
+    blanks: 16282
+    files: 554
   Text:
     code: 0
     comments: 61348
     blanks: 13000
     files: 210
 total:
-  code: 2021268
-  comments: 280814
-  blanks: 199156
-  files: 6702
+  code: 2028182
+  comments: 282187
+  blanks: 199723
+  files: 6720
 ---
 
 ---
