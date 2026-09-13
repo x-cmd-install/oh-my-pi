@@ -2,8 +2,8 @@
   srcname: oh-my-pi
   binname: oh-my-pi
   visiblename: oh-my-pi
-  version: 18.1.18
-  origversion: 18.1.18-1
+  version: 18.1.19
+  origversion: 18.1.19-1
   status: newest
   summary: A coding agent with the IDE wired in
   maintainers:
@@ -15,8 +15,8 @@
   srcname: oh-my-pi-bin
   binname: oh-my-pi-bin
   visiblename: oh-my-pi-bin
-  version: 18.1.18
-  origversion: 18.1.18-1
+  version: 18.1.19
+  origversion: 18.1.19-1
   status: newest
   summary: A coding agent with the IDE wired in (release binary)
   maintainers:
@@ -54,7 +54,7 @@
   subrepo: main
   binname: oh-my-pi
   visiblename: oh-my-pi
-  version: 18.1.18
+  version: 18.1.19
   origversion: null
   status: newest
   licenses:
