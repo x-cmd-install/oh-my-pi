@@ -14,14 +14,14 @@ x install oh-my-pi
 
 ## 代码洞察
 
-合计: **1,689,347** 行代码（覆盖前 5 种语言、共 **5858** 个文件）。
+合计: **1,702,665** 行代码（覆盖前 5 种语言、共 **6003** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| TypeScript | 1,294,880 | 159,339 | 136,908 | 4922 |
-| Rust | 214,297 | 10,705 | 21,580 | 467 |
-| Python | 78,691 | 2,426 | 9,994 | 178 |
-| Json | 41,841 | 0 | 1 | 238 |
+| TypeScript | 1,307,689 | 160,903 | 137,875 | 5066 |
+| Rust | 214,548 | 10,715 | 21,592 | 467 |
+| Python | 78,704 | 2,426 | 9,998 | 178 |
+| Json | 42,035 | 0 | 1 | 239 |
 | Protobuf | 23,449 | 366 | 4,016 | 53 |
 
 ## 源代码
@@ -32,45 +32,45 @@ x install oh-my-pi
 
 ## 发布
 
-- **最新版本**: `v18.2.3` (2026-09-17)
+- **最新版本**: `v18.2.5` (2026-09-17)
 - **最近提交**: 2026-09-17
 - **Release 含资产**: 12 个
 
 ## 流行度
 
-- **Star**: 31,495 · **Fork**: 3,320 · **开放 issue**: 5,409 · **贡献者**: 608
+- **Star**: 31,682 · **Fork**: 3,347 · **开放 issue**: 5,444 · **贡献者**: 608
 
 ## 累计统计
 
-- **发布数**: 609 · **已合并 PR**: 3705 · **开放 PR**: 1004 · **已关闭 issue**: 3728 · **开放 issue**: 1681 · **提交数**: 23883
+- **发布数**: 611 · **已合并 PR**: 3711 · **开放 PR**: 1050 · **已关闭 issue**: 3733 · **开放 issue**: 1711 · **提交数**: 23940
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-18 | 43 | 996 | 661 | 604 | 758 | 4183 |
-| last60d | 2026-07-19 | 78 | 1812 | 949 | 1330 | 1300 | 8341 |
-| 90d | 2026-06-19 | 100 | 2720 | 1004 | 2446 | 1578 | 12683 |
-| last180d | 2026-03-21 | 100 | 3526 | 1004 | 3493 | 1680 | 20290 |
-| 360d | 2025-09-22 | 100 | 3705 | 1004 | 3728 | 1681 | 27115 |
-| last720d | 2024-09-27 | 100 | 3705 | 1004 | 3728 | 1681 | 23883 |
+| 30d | 2026-08-19 | 44 | 954 | 697 | 593 | 767 | 4232 |
+| last60d | 2026-07-20 | 80 | 1813 | 995 | 1318 | 1315 | 8390 |
+| 90d | 2026-06-20 | 100 | 2703 | 1049 | 2424 | 1602 | 12732 |
+| last180d | 2026-03-22 | 100 | 3530 | 1050 | 3494 | 1710 | 20339 |
+| 360d | 2025-09-23 | 100 | 3711 | 1050 | 3733 | 1711 | 27164 |
+| last720d | 2024-09-28 | 100 | 3711 | 1050 | 3733 | 1711 | 23940 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [LICENSE](https://github.com/can1357/oh-my-pi/releases/download/v18.2.3/LICENSE) | 1.1 KiB | `other` |
-| [omp-browser-relay-extension.zip](https://github.com/can1357/oh-my-pi/releases/download/v18.2.3/omp-browser-relay-extension.zip) | 96.7 KiB | `other` |
-| [omp-darwin-arm64](https://github.com/can1357/oh-my-pi/releases/download/v18.2.3/omp-darwin-arm64) | 178.0 MiB | `native/darwin/arm64` |
-| [omp-darwin-x64](https://github.com/can1357/oh-my-pi/releases/download/v18.2.3/omp-darwin-x64) | 186.1 MiB | `native/darwin/x64` |
-| [omp-linux-arm64](https://github.com/can1357/oh-my-pi/releases/download/v18.2.3/omp-linux-arm64) | 198.2 MiB | `native/linux/arm64` |
-| [omp-linux-musl-arm64](https://github.com/can1357/oh-my-pi/releases/download/v18.2.3/omp-linux-musl-arm64) | 191.6 MiB | `native/linux/arm64/musl` |
-| [omp-linux-musl-x64](https://github.com/can1357/oh-my-pi/releases/download/v18.2.3/omp-linux-musl-x64) | 194.3 MiB | `other` |
-| [omp-linux-x64](https://github.com/can1357/oh-my-pi/releases/download/v18.2.3/omp-linux-x64) | 240.2 MiB | `other` |
-| [omp-windows-arm64.exe](https://github.com/can1357/oh-my-pi/releases/download/v18.2.3/omp-windows-arm64.exe) | 191.9 MiB | `native/win/arm64` |
-| [omp-windows-x64.exe](https://github.com/can1357/oh-my-pi/releases/download/v18.2.3/omp-windows-x64.exe) | 202.1 MiB | `native/win/x64` |
-| [SHA256SUMS.txt](https://github.com/can1357/oh-my-pi/releases/download/v18.2.3/SHA256SUMS.txt) | 934 B | `other` |
-| [THIRD-PARTY-NOTICES.txt](https://github.com/can1357/oh-my-pi/releases/download/v18.2.3/THIRD-PARTY-NOTICES.txt) | 1.0 MiB | `other` |
+| [LICENSE](https://github.com/can1357/oh-my-pi/releases/download/v18.2.5/LICENSE) | 1.1 KiB | `other` |
+| [omp-browser-relay-extension.zip](https://github.com/can1357/oh-my-pi/releases/download/v18.2.5/omp-browser-relay-extension.zip) | 96.7 KiB | `other` |
+| [omp-darwin-arm64](https://github.com/can1357/oh-my-pi/releases/download/v18.2.5/omp-darwin-arm64) | 178.5 MiB | `native/darwin/arm64` |
+| [omp-darwin-x64](https://github.com/can1357/oh-my-pi/releases/download/v18.2.5/omp-darwin-x64) | 186.6 MiB | `native/darwin/x64` |
+| [omp-linux-arm64](https://github.com/can1357/oh-my-pi/releases/download/v18.2.5/omp-linux-arm64) | 198.7 MiB | `native/linux/arm64` |
+| [omp-linux-musl-arm64](https://github.com/can1357/oh-my-pi/releases/download/v18.2.5/omp-linux-musl-arm64) | 192.1 MiB | `native/linux/arm64/musl` |
+| [omp-linux-musl-x64](https://github.com/can1357/oh-my-pi/releases/download/v18.2.5/omp-linux-musl-x64) | 194.8 MiB | `other` |
+| [omp-linux-x64](https://github.com/can1357/oh-my-pi/releases/download/v18.2.5/omp-linux-x64) | 240.7 MiB | `other` |
+| [omp-windows-arm64.exe](https://github.com/can1357/oh-my-pi/releases/download/v18.2.5/omp-windows-arm64.exe) | 192.3 MiB | `native/win/arm64` |
+| [omp-windows-x64.exe](https://github.com/can1357/oh-my-pi/releases/download/v18.2.5/omp-windows-x64.exe) | 202.6 MiB | `native/win/x64` |
+| [SHA256SUMS.txt](https://github.com/can1357/oh-my-pi/releases/download/v18.2.5/SHA256SUMS.txt) | 934 B | `other` |
+| [THIRD-PARTY-NOTICES.txt](https://github.com/can1357/oh-my-pi/releases/download/v18.2.5/THIRD-PARTY-NOTICES.txt) | 1.0 MiB | `other` |
 
 ## 改进这些数据
 
@@ -81,4 +81,4 @@ oh-my-pi 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260917.yml` · 2026-09-17T06:03:30Z._
+_数据快照: `data/card/260918.yml` · 2026-09-18T06:01:20Z._
