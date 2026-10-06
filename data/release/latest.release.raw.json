@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1144,
       "digest": "sha256:16c45f9d667442781f03fa198914cc39abcaa48ec5ed8f644643e554ca2fbf63",
-      "download_count": 29,
+      "download_count": 64,
       "created_at": "2026-10-04T16:12:26Z",
       "updated_at": "2026-10-04T16:12:26Z",
       "browser_download_url": "https://github.com/can1357/oh-my-pi/releases/download/v18.6.1/LICENSE"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 98915,
       "digest": "sha256:7ff0f2c33aa5875b25652b26826c152ac8443a8bd5d33eb5b8c74f5b9b1feea1",
-      "download_count": 15,
+      "download_count": 33,
       "created_at": "2026-10-04T16:12:26Z",
       "updated_at": "2026-10-04T16:12:26Z",
       "browser_download_url": "https://github.com/can1357/oh-my-pi/releases/download/v18.6.1/omp-browser-relay-extension.zip"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 208250320,
       "digest": "sha256:b5ca5cd17b8cc09ece36845988fd401f7d1002e1ab5b95600e0f328924246d52",
-      "download_count": 4917,
+      "download_count": 11843,
       "created_at": "2026-10-04T16:12:26Z",
       "updated_at": "2026-10-04T16:12:40Z",
       "browser_download_url": "https://github.com/can1357/oh-my-pi/releases/download/v18.6.1/omp-darwin-arm64"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 220402352,
       "digest": "sha256:4c8ca5f8dfe98076fb6888f76465a43be5503ab3a183cbe20cc1748f9d5b9ba8",
-      "download_count": 143,
+      "download_count": 405,
       "created_at": "2026-10-04T16:12:26Z",
       "updated_at": "2026-10-04T16:12:42Z",
       "browser_download_url": "https://github.com/can1357/oh-my-pi/releases/download/v18.6.1/omp-darwin-x64"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 230672680,
       "digest": "sha256:cb7815330bb117877e4e133562ea82e3001ee470e47393552507b5a7f0407f4a",
-      "download_count": 568,
+      "download_count": 1807,
       "created_at": "2026-10-04T16:12:26Z",
       "updated_at": "2026-10-04T16:12:42Z",
       "browser_download_url": "https://github.com/can1357/oh-my-pi/releases/download/v18.6.1/omp-linux-arm64"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 223743184,
       "digest": "sha256:a1f89c25f2cd19a5c47ddefa314302ef610c199e1df2bcf6a375e8712eb0e879",
-      "download_count": 18,
+      "download_count": 41,
       "created_at": "2026-10-04T16:12:26Z",
       "updated_at": "2026-10-04T16:12:41Z",
       "browser_download_url": "https://github.com/can1357/oh-my-pi/releases/download/v18.6.1/omp-linux-musl-arm64"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 226616880,
       "digest": "sha256:6b463bb8d808706bd727df99a0fa938928bb51a83d92964ebad35f62a9a915a6",
-      "download_count": 20,
+      "download_count": 44,
       "created_at": "2026-10-04T16:12:26Z",
       "updated_at": "2026-10-04T16:12:43Z",
       "browser_download_url": "https://github.com/can1357/oh-my-pi/releases/download/v18.6.1/omp-linux-musl-x64"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 280802784,
       "digest": "sha256:c92a6846d02984e84f07c6362d18add3783f528f494ffcf1e0f26e594f327463",
-      "download_count": 4159,
+      "download_count": 10512,
       "created_at": "2026-10-04T16:12:26Z",
       "updated_at": "2026-10-04T16:12:43Z",
       "browser_download_url": "https://github.com/can1357/oh-my-pi/releases/download/v18.6.1/omp-linux-x64"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 224094208,
       "digest": "sha256:7246e9f4f2a60b9e34d5fab7b95f13d334fed7ca09d72b4663680f8df544924f",
-      "download_count": 19,
+      "download_count": 45,
       "created_at": "2026-10-04T16:12:26Z",
       "updated_at": "2026-10-04T16:12:41Z",
       "browser_download_url": "https://github.com/can1357/oh-my-pi/releases/download/v18.6.1/omp-windows-arm64.exe"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 235049472,
       "digest": "sha256:df10906c558ca188aa044c1c2bf27775693cbcf0aea8f16597dcd6949e0d1a1a",
-      "download_count": 1988,
+      "download_count": 5434,
       "created_at": "2026-10-04T16:12:26Z",
       "updated_at": "2026-10-04T16:12:42Z",
       "browser_download_url": "https://github.com/can1357/oh-my-pi/releases/download/v18.6.1/omp-windows-x64.exe"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 934,
       "digest": "sha256:a337fe94cf40c2f2acd8d3a68e5f373c7b46374cbc15501e065a7fbaab9ba7c3",
-      "download_count": 208,
+      "download_count": 616,
       "created_at": "2026-10-04T16:12:26Z",
       "updated_at": "2026-10-04T16:12:26Z",
       "browser_download_url": "https://github.com/can1357/oh-my-pi/releases/download/v18.6.1/SHA256SUMS.txt"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 1076437,
       "digest": "sha256:d0c2e7c05bb4d755044b13fa560be58d01ab7c980b87892400a979397e569a8b",
-      "download_count": 26,
+      "download_count": 58,
       "created_at": "2026-10-04T16:12:26Z",
       "updated_at": "2026-10-04T16:12:26Z",
       "browser_download_url": "https://github.com/can1357/oh-my-pi/releases/download/v18.6.1/THIRD-PARTY-NOTICES.txt"
@@ -474,13 +474,13 @@
   "body": "## @oh-my-pi/pi-agent-core\n\n### Fixed\n\n- Fixed native OpenAI context compaction for sessions containing many screenshots, preventing image-size estimates from incorrectly causing compaction requests to be rejected.\n\n## @oh-my-pi/pi-ai\n\n### Fixed\n\n- Fixed compatibility with Command Code DeepSeek and other DeepSeek-family models by preserving the reasoning context required for warm OpenAI Responses sessions and correctly handling incomplete DSML tool-call wrappers in visible output.\n\n## @oh-my-pi/pi-coding-agent\n\n### Fixed\n\n- Fixed waiting for subagent follow-up messages: responses now appear as background jobs that can be waited on or canceled, and are delivered only once.\n- Improved `/switch` autocomplete so model and role suggestions use the same relevance ordering as the model picker, including support for `@role` aliases.\n- Fixed concurrent `skill://` searches blocking other filesystem operations and delaying subagent artifact publication.\n- Fixed compatibility checks for browser relays from other OMP versions and added guidance for resolving stale connection-refused errors.\n- Fixed follow-up hashline edits being incorrectly rejected after earlier edits shifted anchored lines, while continuing to reject genuinely stale line references.\n- Fixed `pi.exec()` reporting exit code `0` when a process was terminated by a timeout or signal; terminated processes now report code `-1`.\n- Fixed `/collab` guests being unable to respond to setting-change approval and tool-issue report consent prompts.\n- Fixed follow-up hashline edits being rejected as anchored on lines \"never displayed\" after an earlier edit shifted those lines, when the replacement carries the anchored content; genuinely stale line numbers are still rejected ([#14254](https://github.com/can1357/oh-my-pi/pull/14254) by [@abilliontokens](https://github.com/abilliontokens)).\n- Fixed long `/btw` answers in Tern being clipped with no way to scroll: `/btw` now answers in the scrollable BTW history sheet ([#14331](https://github.com/can1357/oh-my-pi/pull/14331) by [@H4vC](https://github.com/H4vC))\n- Fixed `/btw` answers longer than 4 KiB being cut off with `[…truncated]` once they finished ([#14331](https://github.com/can1357/oh-my-pi/pull/14331) by [@H4vC](https://github.com/H4vC))\n- In Tern, Esc puts the BTW history sheet away while an answer keeps streaming (`/btw` reopens it); `x` cancels the answer ([#14331](https://github.com/can1357/oh-my-pi/pull/14331) by [@H4vC](https://github.com/H4vC))\n\n## @oh-my-pi/pi-natives\n\n### Fixed\n\n- Fixed concurrent searches through host-provided filesystem callbacks so they no longer starve other asynchronous filesystem operations, and ensured canceled searches release promptly.\n\n## @oh-my-pi/pi-tui\n\n### Fixed\n\n- Fixed the Space key in the Git diff pane so it stages or unstages the focused hunk instead of scrolling or acting on the wrong change.\n- Fixed the BTW history sheet in Tern: the history list no longer collapses beside a long answer, the panes lose their foldable `##` headings, and the arrow/page keys scroll the answer ([#14331](https://github.com/can1357/oh-my-pi/pull/14331) by [@H4vC](https://github.com/H4vC))\n- Fixed a single saved side question in the BTW history panel opening on its one-row list: its answer now has focus, and Enter or `f` to follow up jumps to the bottom of the conversation ([#14331](https://github.com/can1357/oh-my-pi/pull/14331) by [@H4vC](https://github.com/H4vC))\n\n\n## What's Changed\n* fix(pi-edit): accept shift-consistent hashline anchors carrying current content by @abilliontokens in https://github.com/can1357/oh-my-pi/pull/14254\n* fix(agent): estimate image tokens from dimensions for native compaction fit by @H4vC in https://github.com/can1357/oh-my-pi/pull/14260\n* btw ux uplifts, tern specific. by @H4vC in https://github.com/can1357/oh-my-pi/pull/14331\n* fix(collab): mirrored cfg:// approval prompts to collab guests by @roboomp in https://github.com/can1357/oh-my-pi/pull/14282\n* fix(ai): filled reasoning_text on warm summary-only reasoning replay by @roboomp in https://github.com/can1357/oh-my-pi/pull/14294\n* fix(natives): moved provider searches off libuv workers by @roboomp in https://github.com/can1357/oh-my-pi/pull/14298\n* fix(browser): diagnosed stale relay after omp upgrades by @roboomp in https://github.com/can1357/oh-my-pi/pull/14299\n* fix(tui): restored Space row staging in git diff by @roboomp in https://github.com/can1357/oh-my-pi/pull/14329\n* fix(ai): preserved prose after incomplete dsml wrappers by @roboomp in https://github.com/can1357/oh-my-pi/pull/14273\n* fix(coding-agent): reported non-zero exit code for killed exec processes by @roboomp in https://github.com/can1357/oh-my-pi/pull/14290\n\n\n**Full Changelog**: https://github.com/can1357/oh-my-pi/compare/v18.6.0...v18.6.1",
   "reactions": {
     "url": "https://api.github.com/repos/can1357/oh-my-pi/releases/403099392/reactions",
-    "total_count": 7,
-    "+1": 3,
+    "total_count": 10,
+    "+1": 5,
     "-1": 0,
     "laugh": 0,
     "hooray": 0,
     "confused": 0,
-    "heart": 2,
+    "heart": 3,
     "rocket": 1,
     "eyes": 1
   },
