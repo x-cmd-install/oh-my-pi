@@ -14,12 +14,12 @@ x install oh-my-pi
 
 ## Code insight
 
-Total: **2,206,491** lines of code across **7148** files in the top 5 languages.
+Total: **2,209,461** lines of code across **7154** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 1,577,987 | 195,943 | 156,767 | 5972 |
-| Rust | 325,421 | 15,246 | 31,557 | 737 |
+| TypeScript | 1,580,956 | 196,403 | 157,008 | 5978 |
+| Rust | 325,422 | 15,246 | 31,557 | 737 |
 | Python | 83,388 | 2,571 | 11,135 | 186 |
 | Json | 69,927 | 0 | 1 | 252 |
 | C | 63,987 | 1 | 30 | 1 |
@@ -32,45 +32,45 @@ Total: **2,206,491** lines of code across **7148** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v18.10.3` (2026-10-12)
+- **Latest**: `v18.10.4` (2026-10-13)
 - **Last commit**: 2026-10-13
 - **Assets in release**: 12
 
 ## Popularity
 
-- **Stars**: 35,245 · **Forks**: 3,839 · **Open issues**: 6,146 · **Contributors**: 719
+- **Stars**: 35,357 · **Forks**: 3,852 · **Open issues**: 6,182 · **Contributors**: 719
 
 ## Totals (cumulative)
 
-- **Releases**: 657 · **Merged PRs**: 4729 · **Open PRs**: 1574 · **Closed issues**: 3892 · **Open issues**: 2254 · **Commits**: 29906
+- **Releases**: 658 · **Merged PRs**: 4740 · **Open PRs**: 1584 · **Closed issues**: 3898 · **Open issues**: 2284 · **Commits**: 29982
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 55 | 1153 | 812 | 473 | 740 | 3826 |
-| last60d | 2026-08-14 | 94 | 2191 | 1323 | 1172 | 1440 | 8583 |
-| 90d | 2026-07-15 | 100 | 3047 | 1545 | 1943 | 1930 | 12398 |
-| last180d | 2026-04-16 | 100 | 4473 | 1574 | 3563 | 2253 | 23611 |
-| 360d | 2025-10-18 | 100 | 4729 | 1574 | 3892 | 2254 | 31072 |
-| last720d | 2024-10-23 | 100 | 4729 | 1574 | 3892 | 2254 | 29906 |
+| 30d | 2026-09-14 | 55 | 1142 | 810 | 462 | 745 | 3860 |
+| last60d | 2026-08-15 | 93 | 2177 | 1322 | 1156 | 1454 | 8617 |
+| 90d | 2026-07-16 | 100 | 3009 | 1555 | 1896 | 1948 | 12432 |
+| last180d | 2026-04-17 | 100 | 4482 | 1584 | 3568 | 2283 | 23645 |
+| 360d | 2025-10-19 | 100 | 4740 | 1584 | 3898 | 2284 | 31106 |
+| last720d | 2024-10-24 | 100 | 4740 | 1584 | 3898 | 2284 | 29982 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [LICENSE](https://github.com/can1357/oh-my-pi/releases/download/v18.10.3/LICENSE) | 1.1 KiB | `other` |
-| [omp-browser-relay-extension.zip](https://github.com/can1357/oh-my-pi/releases/download/v18.10.3/omp-browser-relay-extension.zip) | 96.7 KiB | `other` |
-| [omp-darwin-arm64](https://github.com/can1357/oh-my-pi/releases/download/v18.10.3/omp-darwin-arm64) | 207.1 MiB | `native/darwin/arm64` |
-| [omp-darwin-x64](https://github.com/can1357/oh-my-pi/releases/download/v18.10.3/omp-darwin-x64) | 217.2 MiB | `native/darwin/x64` |
-| [omp-linux-arm64](https://github.com/can1357/oh-my-pi/releases/download/v18.10.3/omp-linux-arm64) | 226.7 MiB | `native/linux/arm64` |
-| [omp-linux-musl-arm64](https://github.com/can1357/oh-my-pi/releases/download/v18.10.3/omp-linux-musl-arm64) | 219.5 MiB | `native/linux/arm64/musl` |
-| [omp-linux-musl-x64](https://github.com/can1357/oh-my-pi/releases/download/v18.10.3/omp-linux-musl-x64) | 222.8 MiB | `other` |
-| [omp-linux-x64](https://github.com/can1357/oh-my-pi/releases/download/v18.10.3/omp-linux-x64) | 263.4 MiB | `other` |
-| [omp-windows-arm64.exe](https://github.com/can1357/oh-my-pi/releases/download/v18.10.3/omp-windows-arm64.exe) | 218.3 MiB | `native/win/arm64` |
-| [omp-windows-x64.exe](https://github.com/can1357/oh-my-pi/releases/download/v18.10.3/omp-windows-x64.exe) | 232.9 MiB | `native/win/x64` |
-| [SHA256SUMS.txt](https://github.com/can1357/oh-my-pi/releases/download/v18.10.3/SHA256SUMS.txt) | 934 B | `other` |
-| [THIRD-PARTY-NOTICES.txt](https://github.com/can1357/oh-my-pi/releases/download/v18.10.3/THIRD-PARTY-NOTICES.txt) | 1.0 MiB | `other` |
+| [LICENSE](https://github.com/can1357/oh-my-pi/releases/download/v18.10.4/LICENSE) | 1.1 KiB | `other` |
+| [omp-browser-relay-extension.zip](https://github.com/can1357/oh-my-pi/releases/download/v18.10.4/omp-browser-relay-extension.zip) | 96.7 KiB | `other` |
+| [omp-darwin-arm64](https://github.com/can1357/oh-my-pi/releases/download/v18.10.4/omp-darwin-arm64) | 207.1 MiB | `native/darwin/arm64` |
+| [omp-darwin-x64](https://github.com/can1357/oh-my-pi/releases/download/v18.10.4/omp-darwin-x64) | 217.2 MiB | `native/darwin/x64` |
+| [omp-linux-arm64](https://github.com/can1357/oh-my-pi/releases/download/v18.10.4/omp-linux-arm64) | 226.7 MiB | `native/linux/arm64` |
+| [omp-linux-musl-arm64](https://github.com/can1357/oh-my-pi/releases/download/v18.10.4/omp-linux-musl-arm64) | 219.5 MiB | `native/linux/arm64/musl` |
+| [omp-linux-musl-x64](https://github.com/can1357/oh-my-pi/releases/download/v18.10.4/omp-linux-musl-x64) | 222.8 MiB | `other` |
+| [omp-linux-x64](https://github.com/can1357/oh-my-pi/releases/download/v18.10.4/omp-linux-x64) | 263.4 MiB | `other` |
+| [omp-windows-arm64.exe](https://github.com/can1357/oh-my-pi/releases/download/v18.10.4/omp-windows-arm64.exe) | 218.4 MiB | `native/win/arm64` |
+| [omp-windows-x64.exe](https://github.com/can1357/oh-my-pi/releases/download/v18.10.4/omp-windows-x64.exe) | 233.0 MiB | `native/win/x64` |
+| [SHA256SUMS.txt](https://github.com/can1357/oh-my-pi/releases/download/v18.10.4/SHA256SUMS.txt) | 934 B | `other` |
+| [THIRD-PARTY-NOTICES.txt](https://github.com/can1357/oh-my-pi/releases/download/v18.10.4/THIRD-PARTY-NOTICES.txt) | 1.0 MiB | `other` |
 
 ## Improve this data
 
@@ -81,4 +81,4 @@ Install metadata for oh-my-pi lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261013.yml` · 2026-10-13T07:46:11Z._
+_Snapshot: `data/card/261014.yml` · 2026-10-14T05:45:02Z._
