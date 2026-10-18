@@ -14,14 +14,14 @@ x install oh-my-pi
 
 ## Code insight
 
-Total: **2,246,785** lines of code across **7244** files in the top 5 languages.
+Total: **2,257,008** lines of code across **7275** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 1,614,346 | 199,763 | 159,428 | 6065 |
-| Rust | 329,232 | 15,624 | 31,890 | 739 |
-| Python | 83,435 | 2,574 | 11,139 | 186 |
-| Json | 69,948 | 0 | 1 | 253 |
+| TypeScript | 1,622,455 | 200,726 | 160,087 | 6094 |
+| Rust | 331,053 | 15,879 | 32,008 | 742 |
+| Python | 83,705 | 2,588 | 11,187 | 186 |
+| Json | 69,842 | 0 | 1 | 252 |
 | C | 63,987 | 1 | 30 | 1 |
 
 ## Source
@@ -32,45 +32,45 @@ Total: **2,246,785** lines of code across **7244** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v18.11.3` (2026-10-16)
-- **Last commit**: 2026-10-17
+- **Latest**: `v18.12.1` (2026-10-17)
+- **Last commit**: 2026-10-18
 - **Assets in release**: 12
 
 ## Popularity
 
-- **Stars**: 35,696 · **Forks**: 3,912 · **Open issues**: 6,328 · **Contributors**: 737
+- **Stars**: 35,792 · **Forks**: 3,932 · **Open issues**: 6,357 · **Contributors**: 746
 
 ## Totals (cumulative)
 
-- **Releases**: 662 · **Merged PRs**: 4995 · **Open PRs**: 1517 · **Closed issues**: 4035 · **Open issues**: 2293 · **Commits**: 31265
+- **Releases**: 664 · **Merged PRs**: 5055 · **Open PRs**: 1509 · **Closed issues**: 4058 · **Open issues**: 2299 · **Commits**: 31549
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-17 | 54 | 1333 | 678 | 542 | 698 | 4400 |
-| last60d | 2026-08-18 | 96 | 2369 | 1237 | 1218 | 1400 | 9158 |
-| 90d | 2026-07-19 | 100 | 3169 | 1480 | 1915 | 1924 | 12974 |
-| last180d | 2026-04-20 | 100 | 4735 | 1517 | 3696 | 2292 | 24187 |
-| 360d | 2025-10-22 | 100 | 4995 | 1517 | 4035 | 2293 | 31648 |
-| last720d | 2024-10-27 | 100 | 4995 | 1517 | 4035 | 2293 | 31265 |
+| 30d | 2026-09-18 | 53 | 1383 | 649 | 560 | 666 | 3967 |
+| last60d | 2026-08-19 | 97 | 2381 | 1219 | 1223 | 1387 | 7967 |
+| 90d | 2026-07-20 | 100 | 3224 | 1472 | 1921 | 1916 | 12243 |
+| last180d | 2026-04-21 | 100 | 4795 | 1509 | 3718 | 2298 | 24159 |
+| 360d | 2025-10-23 | 100 | 5055 | 1509 | 4058 | 2299 | 31923 |
+| last720d | 2024-10-28 | 100 | 5055 | 1509 | 4058 | 2299 | 31549 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [LICENSE](https://github.com/can1357/oh-my-pi/releases/download/v18.11.3/LICENSE) | 1.1 KiB | `other` |
-| [omp-browser-relay-extension.zip](https://github.com/can1357/oh-my-pi/releases/download/v18.11.3/omp-browser-relay-extension.zip) | 96.7 KiB | `other` |
-| [omp-darwin-arm64](https://github.com/can1357/oh-my-pi/releases/download/v18.11.3/omp-darwin-arm64) | 186.0 MiB | `native/darwin/arm64` |
-| [omp-darwin-x64](https://github.com/can1357/oh-my-pi/releases/download/v18.11.3/omp-darwin-x64) | 196.0 MiB | `native/darwin/x64` |
-| [omp-linux-arm64](https://github.com/can1357/oh-my-pi/releases/download/v18.11.3/omp-linux-arm64) | 205.7 MiB | `native/linux/arm64` |
-| [omp-linux-musl-arm64](https://github.com/can1357/oh-my-pi/releases/download/v18.11.3/omp-linux-musl-arm64) | 198.4 MiB | `native/linux/arm64/musl` |
-| [omp-linux-musl-x64](https://github.com/can1357/oh-my-pi/releases/download/v18.11.3/omp-linux-musl-x64) | 201.7 MiB | `other` |
-| [omp-linux-x64](https://github.com/can1357/oh-my-pi/releases/download/v18.11.3/omp-linux-x64) | 242.4 MiB | `other` |
-| [omp-windows-arm64.exe](https://github.com/can1357/oh-my-pi/releases/download/v18.11.3/omp-windows-arm64.exe) | 197.3 MiB | `native/win/arm64` |
-| [omp-windows-x64.exe](https://github.com/can1357/oh-my-pi/releases/download/v18.11.3/omp-windows-x64.exe) | 211.9 MiB | `native/win/x64` |
-| [SHA256SUMS.txt](https://github.com/can1357/oh-my-pi/releases/download/v18.11.3/SHA256SUMS.txt) | 934 B | `other` |
-| [THIRD-PARTY-NOTICES.txt](https://github.com/can1357/oh-my-pi/releases/download/v18.11.3/THIRD-PARTY-NOTICES.txt) | 1.0 MiB | `other` |
+| [LICENSE](https://github.com/can1357/oh-my-pi/releases/download/v18.12.1/LICENSE) | 1.1 KiB | `other` |
+| [omp-browser-relay-extension.zip](https://github.com/can1357/oh-my-pi/releases/download/v18.12.1/omp-browser-relay-extension.zip) | 96.7 KiB | `other` |
+| [omp-darwin-arm64](https://github.com/can1357/oh-my-pi/releases/download/v18.12.1/omp-darwin-arm64) | 186.4 MiB | `native/darwin/arm64` |
+| [omp-darwin-x64](https://github.com/can1357/oh-my-pi/releases/download/v18.12.1/omp-darwin-x64) | 196.5 MiB | `native/darwin/x64` |
+| [omp-linux-arm64](https://github.com/can1357/oh-my-pi/releases/download/v18.12.1/omp-linux-arm64) | 206.2 MiB | `native/linux/arm64` |
+| [omp-linux-musl-arm64](https://github.com/can1357/oh-my-pi/releases/download/v18.12.1/omp-linux-musl-arm64) | 198.9 MiB | `native/linux/arm64/musl` |
+| [omp-linux-musl-x64](https://github.com/can1357/oh-my-pi/releases/download/v18.12.1/omp-linux-musl-x64) | 202.3 MiB | `other` |
+| [omp-linux-x64](https://github.com/can1357/oh-my-pi/releases/download/v18.12.1/omp-linux-x64) | 242.9 MiB | `other` |
+| [omp-windows-arm64.exe](https://github.com/can1357/oh-my-pi/releases/download/v18.12.1/omp-windows-arm64.exe) | 197.9 MiB | `native/win/arm64` |
+| [omp-windows-x64.exe](https://github.com/can1357/oh-my-pi/releases/download/v18.12.1/omp-windows-x64.exe) | 212.4 MiB | `native/win/x64` |
+| [SHA256SUMS.txt](https://github.com/can1357/oh-my-pi/releases/download/v18.12.1/SHA256SUMS.txt) | 934 B | `other` |
+| [THIRD-PARTY-NOTICES.txt](https://github.com/can1357/oh-my-pi/releases/download/v18.12.1/THIRD-PARTY-NOTICES.txt) | 1.0 MiB | `other` |
 
 ## Improve this data
 
@@ -81,4 +81,4 @@ Install metadata for oh-my-pi lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261017.yml` · 2026-10-17T05:11:18Z._
+_Snapshot: `data/card/261018.yml` · 2026-10-18T05:17:45Z._
