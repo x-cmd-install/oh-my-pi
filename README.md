@@ -38,22 +38,22 @@ Total: **2,308,885** lines of code across **7389** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 36,399 · **Forks**: 4,064 · **Open issues**: 6,572 · **Contributors**: 772
+- **Stars**: 36,493 · **Forks**: 4,076 · **Open issues**: 6,592 · **Contributors**: 772
 
 ## Totals (cumulative)
 
-- **Releases**: 669 · **Merged PRs**: 5303 · **Open PRs**: 1785 · **Closed issues**: 4132 · **Open issues**: 2440 · **Commits**: 33214
+- **Releases**: 669 · **Merged PRs**: 5303 · **Open PRs**: 1803 · **Closed issues**: 4135 · **Open issues**: 2457 · **Commits**: 33214
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-24 | 53 | 1411 | 812 | 473 | 689 | 5135 |
-| last60d | 2026-08-25 | 94 | 2397 | 1399 | 1138 | 1410 | 9138 |
-| 90d | 2026-07-26 | 100 | 3253 | 1723 | 1859 | 1992 | 13414 |
-| last180d | 2026-04-27 | 100 | 5030 | 1785 | 3758 | 2438 | 25330 |
-| 360d | 2025-10-29 | 100 | 5303 | 1785 | 4132 | 2440 | 33094 |
-| last720d | 2024-11-03 | 100 | 5303 | 1785 | 4132 | 2440 | 33214 |
+| 30d | 2026-09-25 | 52 | 1379 | 816 | 446 | 677 | 4014 |
+| last60d | 2026-08-26 | 93 | 2367 | 1399 | 1121 | 1411 | 8267 |
+| 90d | 2026-07-27 | 100 | 3216 | 1735 | 1837 | 1994 | 12255 |
+| last180d | 2026-04-28 | 100 | 5028 | 1803 | 3753 | 2455 | 24978 |
+| 360d | 2025-10-30 | 100 | 5303 | 1803 | 4135 | 2457 | 33094 |
+| last720d | 2024-11-04 | 100 | 5303 | 1803 | 4135 | 2457 | 33214 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for oh-my-pi lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261024.yml` · 2026-10-24T05:26:25Z._
+_Snapshot: `data/card/261025.yml` · 2026-10-25T05:24:42Z._
