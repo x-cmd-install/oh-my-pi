@@ -48,9 +48,9 @@
 - repo: chocolatey
   binname: oh-my-pi
   visiblename: Oh My Pi
-  version: 18.12.1
+  version: 18.12.6
   origversion: null
-  status: outdated
+  status: newest
   summary: A coding agent with the IDE wired in
 - repo: macports
   srcname: llm/oh-my-pi
