@@ -1,18 +1,9 @@
-- repo: scoop
-  subrepo: main
-  binname: oh-my-pi
-  visiblename: oh-my-pi
-  version: 18.12.6
-  origversion: null
-  status: newest
-  licenses:
-    - MIT
 - repo: aur
   srcname: oh-my-pi
   binname: oh-my-pi
   visiblename: oh-my-pi
-  version: 18.12.6
-  origversion: 18.12.6-1
+  version: 18.13.1
+  origversion: 18.13.1-1
   status: newest
   summary: Coding agent with the IDE wired in
   maintainers:
@@ -24,8 +15,8 @@
   srcname: oh-my-pi-bin
   binname: oh-my-pi-bin
   visiblename: oh-my-pi-bin
-  version: 18.12.6
-  origversion: 18.12.6-1
+  version: 18.13.1
+  origversion: 18.13.1-1
   status: newest
   summary: Coding agent with the IDE wired in (release binary)
   maintainers:
@@ -50,7 +41,7 @@
   visiblename: Oh My Pi
   version: 18.12.6
   origversion: null
-  status: newest
+  status: outdated
   summary: A coding agent with the IDE wired in
 - repo: macports
   srcname: llm/oh-my-pi
@@ -58,7 +49,7 @@
   visiblename: oh-my-pi
   version: 18.12.6
   origversion: null
-  status: newest
+  status: outdated
   summary: oh-my-pi (omp) is a coding agent CLI built on Pi with batteries included
   maintainers:
     - oakimov@github
@@ -66,3 +57,12 @@
     - MIT
   categories:
     - llm
+- repo: scoop
+  subrepo: main
+  binname: oh-my-pi
+  visiblename: oh-my-pi
+  version: 18.13.1
+  origversion: null
+  status: newest
+  licenses:
+    - MIT
