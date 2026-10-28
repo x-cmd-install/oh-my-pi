@@ -1,0 +1,255 @@
+about:
+  description: "⌥ Coding agent with the IDE wired in. Built by Stencil Labs."
+  license: MIT
+  homepage: https://omp.sh
+  head: 6f3fbc9
+  archived: false
+  latestVersion: "v18.13.2"
+  latestRelease: "v18.13.2"
+  latestPrerelease: ""
+  collectedAt: 2026-10-28T06:27:54Z
+timeline:
+  created: 2025-12-31
+  lastCommit: 2026-10-27
+  lastVersion: 2026-10-27
+  lastRelease: 2026-10-27
+  lastPrerelease: 
+popularity:
+  star: 36881
+  watcher: 94
+  fork: 4129
+  release: 672
+  contributor: 784
+  pullRequest: 9530
+  issue: 6674
+language:
+  TypeScript: 78322482
+  Rust: 11853833
+  Python: 3538345
+  Nix: 174285
+  JavaScript: 168851
+  CSS: 167739
+  Starlark: 115571
+  Go: 115208
+  Shell: 76261
+  Dockerfile: 20694
+  Swift: 20047
+  Objective-C: 19389
+  HTML: 18334
+  Julia: 17409
+  PowerShell: 13578
+  AppleScript: 1570
+totalBytes: 94643596
+recent:
+  last30d:
+    since: 2026-09-28
+    release: 50
+    mergedPR: 1359
+    openPR: 732
+    closedIssue: 406
+    openIssue: 691
+    commit: 5113
+  last60d:
+    since: 2026-08-29
+    release: 91
+    mergedPR: 2415
+    openPR: 1258
+    closedIssue: 1078
+    openIssue: 1395
+    commit: 9368
+  last90d:
+    since: 2026-07-30
+    release: 100
+    mergedPR: 3292
+    openPR: 1643
+    closedIssue: 1807
+    openIssue: 1998
+    commit: 13354
+  last180d:
+    since: 2026-05-01
+    release: 100
+    mergedPR: 5151
+    openPR: 1740
+    closedIssue: 3765
+    openIssue: 2511
+    commit: 26077
+  last360d:
+    since: 2025-11-02
+    release: 100
+    mergedPR: 5434
+    openPR: 1740
+    closedIssue: 4161
+    openIssue: 2513
+    commit: 34193
+  last720d:
+    since: 2024-11-07
+    release: 100
+    mergedPR: 5434
+    openPR: 1740
+    closedIssue: 4161
+    openIssue: 2513
+    commit: 34329
+total:
+  release: 672
+  mergedPR: 5434
+  openPR: 1740
+  closedIssue: 4161
+  openIssue: 2513
+  commit: 34329
+---
+path: /home/runner/.x-repo/github.com/can1357/oh-my-pi
+collectedAt: 2026-10-28T06:31:07Z
+loc:
+  TypeScript:
+    code: 1702068
+    comments: 212368
+    blanks: 166682
+    files: 6307
+  Rust:
+    code: 358117
+    comments: 18515
+    blanks: 34060
+    files: 756
+  Python:
+    code: 84049
+    comments: 2601
+    blanks: 11233
+    files: 186
+  Json:
+    code: 70071
+    comments: 0
+    blanks: 1
+    files: 252
+  C:
+    code: 63987
+    comments: 1
+    blanks: 30
+    files: 1
+  Protobuf:
+    code: 23690
+    comments: 368
+    blanks: 4039
+    files: 54
+  Tsx:
+    code: 18921
+    comments: 847
+    blanks: 1304
+    files: 117
+  JavaScript:
+    code: 13817
+    comments: 680
+    blanks: 472
+    files: 23
+  Go:
+    code: 11386
+    comments: 294
+    blanks: 309
+    files: 17
+  Css:
+    code: 6668
+    comments: 302
+    blanks: 1040
+    files: 19
+  Toml:
+    code: 4293
+    comments: 502
+    blanks: 545
+    files: 100
+  Nix:
+    code: 3011
+    comments: 135
+    blanks: 54
+    files: 8
+  Sh:
+    code: 1326
+    comments: 392
+    blanks: 173
+    files: 14
+  Swift:
+    code: 482
+    comments: 61
+    blanks: 58
+    files: 1
+  CHeader:
+    code: 476
+    comments: 64
+    blanks: 91
+    files: 3
+  ObjectiveC:
+    code: 459
+    comments: 11
+    blanks: 34
+    files: 3
+  Dockerfile:
+    code: 400
+    comments: 207
+    blanks: 98
+    files: 7
+  PowerShell:
+    code: 353
+    comments: 18
+    blanks: 4
+    files: 1
+  Julia:
+    code: 325
+    comments: 15
+    blanks: 17
+    files: 1
+  Hex:
+    code: 255
+    comments: 0
+    blanks: 0
+    files: 1
+  Html:
+    code: 236
+    comments: 4
+    blanks: 11
+    files: 13
+  Yaml:
+    code: 195
+    comments: 97
+    blanks: 9
+    files: 3
+  Scheme:
+    code: 131
+    comments: 6
+    blanks: 28
+    files: 2
+  Svg:
+    code: 21
+    comments: 6
+    blanks: 0
+    files: 2
+  Batch:
+    code: 20
+    comments: 0
+    blanks: 0
+    files: 20
+  Xml:
+    code: 9
+    comments: 0
+    blanks: 0
+    files: 2
+  Jupyter:
+    code: 0
+    comments: 0
+    blanks: 0
+    files: 2
+  Markdown:
+    code: 0
+    comments: 48567
+    blanks: 18221
+    files: 668
+  Text:
+    code: 0
+    comments: 70443
+    blanks: 12943
+    files: 112
+total:
+  code: 2372260
+  comments: 386611
+  blanks: 254761
+  files: 8695
+---
+
+---
