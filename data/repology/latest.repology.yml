@@ -1,16 +1,9 @@
-- repo: chocolatey
-  binname: oh-my-pi
-  visiblename: Oh My Pi
-  version: 18.12.6
-  origversion: null
-  status: outdated
-  summary: A coding agent with the IDE wired in
 - repo: aur
   srcname: oh-my-pi
   binname: oh-my-pi
   visiblename: oh-my-pi
-  version: 18.13.2
-  origversion: 18.13.2-1
+  version: 18.13.3
+  origversion: 18.13.3-1
   status: newest
   summary: Coding agent with the IDE wired in
   maintainers:
@@ -22,8 +15,8 @@
   srcname: oh-my-pi-bin
   binname: oh-my-pi-bin
   visiblename: oh-my-pi-bin
-  version: 18.13.2
-  origversion: 18.13.2-1
+  version: 18.13.3
+  origversion: 18.13.3-1
   status: newest
   summary: Coding agent with the IDE wired in (release binary)
   maintainers:
@@ -43,13 +36,20 @@
     - slact@aur
   licenses:
     - MIT
+- repo: chocolatey
+  binname: oh-my-pi
+  visiblename: Oh My Pi
+  version: 18.12.6
+  origversion: null
+  status: outdated
+  summary: A coding agent with the IDE wired in
 - repo: macports
   srcname: llm/oh-my-pi
   binname: oh-my-pi
   visiblename: oh-my-pi
-  version: 18.13.1
+  version: 18.13.3
   origversion: null
-  status: outdated
+  status: newest
   summary: oh-my-pi (omp) is a coding agent CLI built on Pi with batteries included
   maintainers:
     - oakimov@github
@@ -61,7 +61,7 @@
   subrepo: main
   binname: oh-my-pi
   visiblename: oh-my-pi
-  version: 18.13.2
+  version: 18.13.3
   origversion: null
   status: newest
   licenses:
