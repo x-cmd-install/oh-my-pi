@@ -1,36 +1,3 @@
-- repo: chocolatey
-  binname: oh-my-pi
-  visiblename: Oh My Pi
-  version: 18.12.6
-  origversion: null
-  status: outdated
-  summary: A coding agent with the IDE wired in
-- repo: aur
-  srcname: oh-my-pi
-  binname: oh-my-pi
-  visiblename: oh-my-pi
-  version: 18.14.2
-  origversion: 18.14.2-1
-  status: newest
-  summary: Coding agent with the IDE wired in
-  maintainers:
-    - bjin@aur
-    - omp-updater@aur
-  licenses:
-    - MIT
-- repo: aur
-  srcname: oh-my-pi-bin
-  binname: oh-my-pi-bin
-  visiblename: oh-my-pi-bin
-  version: 18.14.2
-  origversion: 18.14.2-1
-  status: newest
-  summary: Coding agent with the IDE wired in (release binary)
-  maintainers:
-    - bjin@aur
-    - omp-updater@aur
-  licenses:
-    - MIT
 - repo: aur
   srcname: oh-my-pi-git
   binname: oh-my-pi-git
@@ -43,6 +10,39 @@
     - slact@aur
   licenses:
     - MIT
+- repo: aur
+  srcname: oh-my-pi
+  binname: oh-my-pi
+  visiblename: oh-my-pi
+  version: 18.15.0
+  origversion: 18.15.0-1
+  status: newest
+  summary: Coding agent with the IDE wired in
+  maintainers:
+    - bjin@aur
+    - omp-updater@aur
+  licenses:
+    - MIT
+- repo: aur
+  srcname: oh-my-pi-bin
+  binname: oh-my-pi-bin
+  visiblename: oh-my-pi-bin
+  version: 18.15.0
+  origversion: 18.15.0-1
+  status: newest
+  summary: Coding agent with the IDE wired in (release binary)
+  maintainers:
+    - bjin@aur
+    - omp-updater@aur
+  licenses:
+    - MIT
+- repo: chocolatey
+  binname: oh-my-pi
+  visiblename: Oh My Pi
+  version: 18.15.0
+  origversion: null
+  status: newest
+  summary: A coding agent with the IDE wired in
 - repo: macports
   srcname: llm/oh-my-pi
   binname: oh-my-pi
@@ -61,7 +61,7 @@
   subrepo: main
   binname: oh-my-pi
   visiblename: oh-my-pi
-  version: 18.14.2
+  version: 18.15.0
   origversion: null
   status: newest
   licenses:
