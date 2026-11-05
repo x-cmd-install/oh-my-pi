@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1144,
       "digest": "sha256:16c45f9d667442781f03fa198914cc39abcaa48ec5ed8f644643e554ca2fbf63",
-      "download_count": 36,
+      "download_count": 53,
       "created_at": "2026-11-02T19:49:05Z",
       "updated_at": "2026-11-02T19:49:05Z",
       "browser_download_url": "https://github.com/can1357/oh-my-pi/releases/download/v18.16.0/LICENSE"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 6074,
       "digest": "sha256:383c47f736a248555b2b80b102355695a20752f609f1d5d994046aa4d20af48f",
-      "download_count": 30,
+      "download_count": 45,
       "created_at": "2026-11-02T19:49:05Z",
       "updated_at": "2026-11-02T19:49:05Z",
       "browser_download_url": "https://github.com/can1357/oh-my-pi/releases/download/v18.16.0/omp-browser-relay-extension.zip"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 215642256,
       "digest": "sha256:d4a10d97488d6054d2b18198bd24f461079952c7e0fb75ba66336ca0df0cb99e",
-      "download_count": 1291,
+      "download_count": 2086,
       "created_at": "2026-11-02T19:49:05Z",
       "updated_at": "2026-11-02T19:49:18Z",
       "browser_download_url": "https://github.com/can1357/oh-my-pi/releases/download/v18.16.0/omp-darwin-arm64"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 227570128,
       "digest": "sha256:abd62d315b66314f0f635d537407037e7b0d06782513d8035669db5ef744242d",
-      "download_count": 92,
+      "download_count": 152,
       "created_at": "2026-11-02T19:49:05Z",
       "updated_at": "2026-11-02T19:49:19Z",
       "browser_download_url": "https://github.com/can1357/oh-my-pi/releases/download/v18.16.0/omp-darwin-x64"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 236702712,
       "digest": "sha256:c2be1ea85ce17c4270854b57efff2a7ea1d5a03c7557fd08721f2b9bb32698de",
-      "download_count": 756,
+      "download_count": 1624,
       "created_at": "2026-11-02T19:49:05Z",
       "updated_at": "2026-11-02T19:49:18Z",
       "browser_download_url": "https://github.com/can1357/oh-my-pi/releases/download/v18.16.0/omp-linux-arm64"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 229055592,
       "digest": "sha256:5e47342bf25fe18e88660b8fe3a692173ac8941e1c769ba19e154a2ca67de405",
-      "download_count": 92,
+      "download_count": 142,
       "created_at": "2026-11-02T19:49:05Z",
       "updated_at": "2026-11-02T19:49:13Z",
       "browser_download_url": "https://github.com/can1357/oh-my-pi/releases/download/v18.16.0/omp-linux-musl-arm64"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 232261032,
       "digest": "sha256:5e549f632abd7e22da9551a673b3f3ef7915e9ce9fff92d225236a09b60a3c59",
-      "download_count": 164,
+      "download_count": 264,
       "created_at": "2026-11-02T19:49:05Z",
       "updated_at": "2026-11-02T19:49:13Z",
       "browser_download_url": "https://github.com/can1357/oh-my-pi/releases/download/v18.16.0/omp-linux-musl-x64"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 277002416,
       "digest": "sha256:6498ed785bab00d2926e0387e0ec02362d6d45f1c3d0d1b57c1618b7f95c9264",
-      "download_count": 7407,
+      "download_count": 13202,
       "created_at": "2026-11-02T19:49:05Z",
       "updated_at": "2026-11-02T19:49:16Z",
       "browser_download_url": "https://github.com/can1357/oh-my-pi/releases/download/v18.16.0/omp-linux-x64"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 226101760,
       "digest": "sha256:3de50c05b84851089c962aaff4d39d1622bfa079334a5a295bf70028cfdcbc6d",
-      "download_count": 55,
+      "download_count": 243,
       "created_at": "2026-11-02T19:49:05Z",
       "updated_at": "2026-11-02T19:49:16Z",
       "browser_download_url": "https://github.com/can1357/oh-my-pi/releases/download/v18.16.0/omp-windows-arm64.exe"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 243591168,
       "digest": "sha256:c249a9ed0a57c748fb1247d8ee9e2d0fe1b13229266ce74d8810a76a591e21fc",
-      "download_count": 1994,
+      "download_count": 3215,
       "created_at": "2026-11-02T19:49:05Z",
       "updated_at": "2026-11-02T19:49:15Z",
       "browser_download_url": "https://github.com/can1357/oh-my-pi/releases/download/v18.16.0/omp-windows-x64.exe"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 844,
       "digest": "sha256:6bee1dcdc507e39685c734069d933f8551624a23c51a5d5fbeca29428fd03260",
-      "download_count": 819,
+      "download_count": 1435,
       "created_at": "2026-11-02T19:49:05Z",
       "updated_at": "2026-11-02T19:49:05Z",
       "browser_download_url": "https://github.com/can1357/oh-my-pi/releases/download/v18.16.0/SHA256SUMS.txt"
