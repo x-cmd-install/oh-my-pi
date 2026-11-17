@@ -1,9 +1,18 @@
+- repo: scoop
+  subrepo: main
+  binname: oh-my-pi
+  visiblename: oh-my-pi
+  version: 18.22.0
+  origversion: null
+  status: newest
+  licenses:
+    - MIT
 - repo: aur
   srcname: oh-my-pi
   binname: oh-my-pi
   visiblename: oh-my-pi
-  version: 18.20.3
-  origversion: 18.20.3-1
+  version: 18.22.0
+  origversion: 18.22.0-1
   status: newest
   summary: Coding agent with the IDE wired in
   maintainers:
@@ -15,8 +24,8 @@
   srcname: oh-my-pi-bin
   binname: oh-my-pi-bin
   visiblename: oh-my-pi-bin
-  version: 18.20.3
-  origversion: 18.20.3-1
+  version: 18.22.0
+  origversion: 18.22.0-1
   status: newest
   summary: Coding agent with the IDE wired in (release binary)
   maintainers:
@@ -57,12 +66,3 @@
     - MIT
   categories:
     - llm
-- repo: scoop
-  subrepo: main
-  binname: oh-my-pi
-  visiblename: oh-my-pi
-  version: 18.20.3
-  origversion: null
-  status: newest
-  licenses:
-    - MIT
