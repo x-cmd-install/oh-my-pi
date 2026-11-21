@@ -47,9 +47,9 @@
   srcname: llm/oh-my-pi
   binname: oh-my-pi
   visiblename: oh-my-pi
-  version: 19.0.0
+  version: 19.0.1
   origversion: null
-  status: outdated
+  status: newest
   summary: oh-my-pi (omp) is a coding agent CLI built on Pi with batteries included
   maintainers:
     - oakimov@github
