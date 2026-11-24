@@ -14,15 +14,15 @@ x install oh-my-pi
 
 ## Code insight
 
-Total: **3,031,797** lines of code across **8962** files in the top 5 languages.
+Total: **2,970,505** lines of code across **9347** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 1,952,528 | 248,928 | 187,127 | 7150 |
-| Rust | 737,749 | 23,000 | 54,617 | 1288 |
-| Json | 91,715 | 0 | 23 | 326 |
-| Python | 87,944 | 2,782 | 11,908 | 197 |
-| C | 63,987 | 1 | 30 | 1 |
+| TypeScript | 1,806,883 | 229,454 | 171,366 | 7081 |
+| Rust | 742,291 | 23,028 | 54,959 | 1294 |
+| Json | 107,102 | 0 | 23 | 327 |
+| Tsx | 91,476 | 7,452 | 5,583 | 448 |
+| Python | 88,089 | 2,784 | 11,919 | 197 |
 
 ## Source
 
@@ -33,27 +33,27 @@ Total: **3,031,797** lines of code across **8962** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v19.1.1` (2026-11-23)
-- **Last commit**: 2026-11-23
+- **Last commit**: 2026-11-24
 - **Assets in release**: 11
 
 ## Popularity
 
-- **Stars**: 39,707 · **Forks**: 4,584 · **Open issues**: 7,603 · **Contributors**: 909
+- **Stars**: 39,774 · **Forks**: 4,596 · **Open issues**: 7,630 · **Contributors**: 916
 
 ## Totals (cumulative)
 
-- **Releases**: 702 · **Merged PRs**: 6641 · **Open PRs**: 2094 · **Closed issues**: 4601 · **Open issues**: 3002 · **Commits**: 41547
+- **Releases**: 702 · **Merged PRs**: 6679 · **Open PRs**: 2111 · **Closed issues**: 4618 · **Open issues**: 3012 · **Commits**: 41784
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 33 | 1234 | 688 | 383 | 640 | 6051 |
-| last60d | 2026-09-24 | 86 | 2748 | 1247 | 910 | 1288 | 12350 |
-| 90d | 2026-08-25 | 100 | 3736 | 1766 | 1589 | 1990 | 16596 |
-| last180d | 2026-05-27 | 100 | 6186 | 2094 | 3984 | 2996 | 30290 |
-| 360d | 2025-11-28 | 100 | 6641 | 2094 | 4601 | 3002 | 40845 |
-| last720d | 2024-12-03 | 100 | 6641 | 2094 | 4601 | 3002 | 41547 |
+| 30d | 2026-10-25 | 33 | 1263 | 707 | 394 | 628 | 6284 |
+| last60d | 2026-09-25 | 85 | 2753 | 1260 | 898 | 1272 | 12583 |
+| 90d | 2026-08-26 | 100 | 3743 | 1768 | 1586 | 1986 | 16832 |
+| last180d | 2026-05-28 | 100 | 6216 | 2111 | 3993 | 3005 | 30526 |
+| 360d | 2025-11-29 | 100 | 6679 | 2111 | 4620 | 3012 | 41081 |
+| last720d | 2024-12-04 | 100 | 6679 | 2111 | 4620 | 3012 | 41784 |
 
 ## Release assets
 
@@ -73,7 +73,7 @@ Total: **3,031,797** lines of code across **8962** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **6** distros on [repology.org](https://repology.org/project/oh-my-pi). **3** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
+Reported by **6** distros on [repology.org](https://repology.org/project/oh-my-pi). **4** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
 
 ## Improve this data
 
@@ -84,4 +84,4 @@ Install metadata for oh-my-pi lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T10:40:18Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T11:37:11Z._
