@@ -14,15 +14,15 @@ x install oh-my-pi
 
 ## Code insight
 
-Total: **2,988,126** lines of code across **9553** files in the top 5 languages.
+Total: **3,079,199** lines of code across **9685** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 1,819,412 | 230,885 | 172,435 | 7243 |
-| Rust | 745,676 | 22,972 | 55,138 | 1298 |
-| Json | 107,490 | 0 | 23 | 366 |
-| Tsx | 92,466 | 7,529 | 5,643 | 449 |
-| Python | 88,128 | 2,794 | 11,929 | 197 |
+| TypeScript | 1,809,602 | 230,657 | 170,153 | 7167 |
+| Rust | 845,370 | 24,163 | 61,089 | 1506 |
+| Json | 107,486 | 0 | 23 | 366 |
+| Tsx | 93,164 | 7,615 | 5,665 | 449 |
+| Python | 88,136 | 2,794 | 11,930 | 197 |
 
 ## Source
 
@@ -32,44 +32,44 @@ Total: **2,988,126** lines of code across **9553** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v19.2.0` (2026-11-25)
-- **Last commit**: 2026-11-25
+- **Latest**: `v19.2.1` (2026-11-25)
+- **Last commit**: 2026-11-26
 - **Assets in release**: 11
 
 ## Popularity
 
-- **Stars**: 39,842 · **Forks**: 4,610 · **Open issues**: 7,666 · **Contributors**: 919
+- **Stars**: 39,925 · **Forks**: 4,634 · **Open issues**: 7,728 · **Contributors**: 926
 
 ## Totals (cumulative)
 
-- **Releases**: 703 · **Merged PRs**: 6709 · **Open PRs**: 1551 · **Closed issues**: 5542 · **Open issues**: 2124 · **Commits**: 42057
+- **Releases**: 704 · **Merged PRs**: 6759 · **Open PRs**: 1206 · **Closed issues**: 6368 · **Open issues**: 1360 · **Commits**: 42364
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 34 | 1244 | 735 | 407 | 622 | 6561 |
-| last60d | 2026-09-26 | 85 | 2735 | 1117 | 1139 | 1037 | 12860 |
-| 90d | 2026-08-27 | 100 | 3738 | 1241 | 2388 | 1151 | 17109 |
-| last180d | 2026-05-29 | 100 | 6237 | 1552 | 4906 | 2117 | 30803 |
-| 360d | 2025-11-30 | 100 | 6709 | 1552 | 5542 | 2124 | 41358 |
-| last720d | 2024-12-05 | 100 | 6709 | 1552 | 5542 | 2124 | 42057 |
+| 30d | 2026-10-27 | 34 | 1244 | 638 | 425 | 642 | 6854 |
+| last60d | 2026-09-27 | 85 | 2727 | 1026 | 1129 | 1070 | 13153 |
+| 90d | 2026-08-28 | 100 | 3757 | 1148 | 2377 | 1180 | 17402 |
+| last180d | 2026-05-30 | 100 | 6277 | 1206 | 5714 | 1355 | 31096 |
+| 360d | 2025-12-01 | 100 | 6759 | 1206 | 6368 | 1360 | 41651 |
+| last720d | 2024-12-06 | 100 | 6759 | 1206 | 6368 | 1360 | 42364 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [LICENSE](https://github.com/can1357/oh-my-pi/releases/download/v19.2.0/LICENSE) | 1.1 KiB | `other` |
-| [omp-browser-relay-extension.zip](https://github.com/can1357/oh-my-pi/releases/download/v19.2.0/omp-browser-relay-extension.zip) | 285.3 KiB | `other` |
-| [omp-darwin-arm64](https://github.com/can1357/oh-my-pi/releases/download/v19.2.0/omp-darwin-arm64) | 223.6 MiB | `native/darwin/arm64` |
-| [omp-darwin-x64](https://github.com/can1357/oh-my-pi/releases/download/v19.2.0/omp-darwin-x64) | 235.8 MiB | `native/darwin/x64` |
-| [omp-linux-arm64](https://github.com/can1357/oh-my-pi/releases/download/v19.2.0/omp-linux-arm64) | 244.2 MiB | `native/linux/arm64` |
-| [omp-linux-musl-arm64](https://github.com/can1357/oh-my-pi/releases/download/v19.2.0/omp-linux-musl-arm64) | 236.8 MiB | `native/linux/arm64/musl` |
-| [omp-linux-musl-x64](https://github.com/can1357/oh-my-pi/releases/download/v19.2.0/omp-linux-musl-x64) | 240.2 MiB | `other` |
-| [omp-linux-x64](https://github.com/can1357/oh-my-pi/releases/download/v19.2.0/omp-linux-x64) | 289.1 MiB | `other` |
-| [omp-windows-arm64.exe](https://github.com/can1357/oh-my-pi/releases/download/v19.2.0/omp-windows-arm64.exe) | 234.3 MiB | `native/win/arm64` |
-| [omp-windows-x64.exe](https://github.com/can1357/oh-my-pi/releases/download/v19.2.0/omp-windows-x64.exe) | 250.9 MiB | `native/win/x64` |
-| [SHA256SUMS.txt](https://github.com/can1357/oh-my-pi/releases/download/v19.2.0/SHA256SUMS.txt) | 844 B | `other` |
+| [LICENSE](https://github.com/can1357/oh-my-pi/releases/download/v19.2.1/LICENSE) | 1.1 KiB | `other` |
+| [omp-browser-relay-extension.zip](https://github.com/can1357/oh-my-pi/releases/download/v19.2.1/omp-browser-relay-extension.zip) | 285.5 KiB | `other` |
+| [omp-darwin-arm64](https://github.com/can1357/oh-my-pi/releases/download/v19.2.1/omp-darwin-arm64) | 226.3 MiB | `native/darwin/arm64` |
+| [omp-darwin-x64](https://github.com/can1357/oh-my-pi/releases/download/v19.2.1/omp-darwin-x64) | 238.6 MiB | `native/darwin/x64` |
+| [omp-linux-arm64](https://github.com/can1357/oh-my-pi/releases/download/v19.2.1/omp-linux-arm64) | 246.8 MiB | `native/linux/arm64` |
+| [omp-linux-musl-arm64](https://github.com/can1357/oh-my-pi/releases/download/v19.2.1/omp-linux-musl-arm64) | 239.4 MiB | `native/linux/arm64/musl` |
+| [omp-linux-musl-x64](https://github.com/can1357/oh-my-pi/releases/download/v19.2.1/omp-linux-musl-x64) | 243.0 MiB | `other` |
+| [omp-linux-x64](https://github.com/can1357/oh-my-pi/releases/download/v19.2.1/omp-linux-x64) | 294.3 MiB | `other` |
+| [omp-windows-arm64.exe](https://github.com/can1357/oh-my-pi/releases/download/v19.2.1/omp-windows-arm64.exe) | 236.9 MiB | `native/win/arm64` |
+| [omp-windows-x64.exe](https://github.com/can1357/oh-my-pi/releases/download/v19.2.1/omp-windows-x64.exe) | 253.7 MiB | `native/win/x64` |
+| [SHA256SUMS.txt](https://github.com/can1357/oh-my-pi/releases/download/v19.2.1/SHA256SUMS.txt) | 844 B | `other` |
 
 ## Improve this data
 
@@ -80,4 +80,4 @@ Install metadata for oh-my-pi lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T09:17:12Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T08:58:06Z._
